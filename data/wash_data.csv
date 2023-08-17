@@ -1,0 +1,1826 @@
+iso3;country;residence_type;service_type;year;coverage;service_level
+ARG;Argentina;urban;Drinking water;2000;0.9870544;At least basic
+ARG;Argentina;urban;Drinking water;2000;0;Limited service
+ARG;Argentina;urban;Drinking water;2000;0.0012448;Surface water
+ARG;Argentina;urban;Drinking water;2000;0.0117007;Unimproved
+ARG;Argentina;urban;Drinking water;2001;0.9876104;At least basic
+ARG;Argentina;urban;Drinking water;2001;0;Limited service
+ARG;Argentina;urban;Drinking water;2001;0.0012409;Surface water
+ARG;Argentina;urban;Drinking water;2001;0.0111487;Unimproved
+ARG;Argentina;urban;Drinking water;2002;0.9881663;At least basic
+ARG;Argentina;urban;Drinking water;2002;0;Limited service
+ARG;Argentina;urban;Drinking water;2002;0.0012369;Surface water
+ARG;Argentina;urban;Drinking water;2002;0.0105968;Unimproved
+ARG;Argentina;urban;Drinking water;2003;0.9887222;At least basic
+ARG;Argentina;urban;Drinking water;2003;0;Limited service
+ARG;Argentina;urban;Drinking water;2003;0.001233;Surface water
+ARG;Argentina;urban;Drinking water;2003;0.0100448;Unimproved
+ARG;Argentina;urban;Drinking water;2004;0.9892782;At least basic
+ARG;Argentina;urban;Drinking water;2004;0;Limited service
+ARG;Argentina;urban;Drinking water;2004;0.001229;Surface water
+ARG;Argentina;urban;Drinking water;2004;0.0094928;Unimproved
+ARG;Argentina;urban;Drinking water;2005;0.9898341;At least basic
+ARG;Argentina;urban;Drinking water;2005;0;Limited service
+ARG;Argentina;urban;Drinking water;2005;0.0012251;Surface water
+ARG;Argentina;urban;Drinking water;2005;0.0089408;Unimproved
+ARG;Argentina;urban;Drinking water;2006;0.9903901;At least basic
+ARG;Argentina;urban;Drinking water;2006;0;Limited service
+ARG;Argentina;urban;Drinking water;2006;0.0012212;Surface water
+ARG;Argentina;urban;Drinking water;2006;0.0083888;Unimproved
+ARG;Argentina;urban;Drinking water;2007;0.990946;At least basic
+ARG;Argentina;urban;Drinking water;2007;0;Limited service
+ARG;Argentina;urban;Drinking water;2007;0.0012172;Surface water
+ARG;Argentina;urban;Drinking water;2007;0.0078368;Unimproved
+ARG;Argentina;urban;Drinking water;2008;0.9915019;At least basic
+ARG;Argentina;urban;Drinking water;2008;0;Limited service
+ARG;Argentina;urban;Drinking water;2008;0.0012133;Surface water
+ARG;Argentina;urban;Drinking water;2008;0.0072848;Unimproved
+ARG;Argentina;urban;Drinking water;2009;0.9920579;At least basic
+ARG;Argentina;urban;Drinking water;2009;0;Limited service
+ARG;Argentina;urban;Drinking water;2009;0.0012093;Surface water
+ARG;Argentina;urban;Drinking water;2009;0.0067328;Unimproved
+ARG;Argentina;urban;Drinking water;2010;0.9926138;At least basic
+ARG;Argentina;urban;Drinking water;2010;0;Limited service
+ARG;Argentina;urban;Drinking water;2010;0.0012054;Surface water
+ARG;Argentina;urban;Drinking water;2010;0.0061808;Unimproved
+ARG;Argentina;urban;Drinking water;2011;0.9931697;At least basic
+ARG;Argentina;urban;Drinking water;2011;0;Limited service
+ARG;Argentina;urban;Drinking water;2011;0.0012014;Surface water
+ARG;Argentina;urban;Drinking water;2011;0.0056288;Unimproved
+ARG;Argentina;urban;Drinking water;2012;0.9937257;At least basic
+ARG;Argentina;urban;Drinking water;2012;0;Limited service
+ARG;Argentina;urban;Drinking water;2012;0.0011975;Surface water
+ARG;Argentina;urban;Drinking water;2012;0.0050769;Unimproved
+ARG;Argentina;urban;Drinking water;2013;0.9942816;At least basic
+ARG;Argentina;urban;Drinking water;2013;0;Limited service
+ARG;Argentina;urban;Drinking water;2013;0.0011935;Surface water
+ARG;Argentina;urban;Drinking water;2013;0.0045249;Unimproved
+ARG;Argentina;urban;Drinking water;2014;0.9948375;At least basic
+ARG;Argentina;urban;Drinking water;2014;0;Limited service
+ARG;Argentina;urban;Drinking water;2014;0.0011896;Surface water
+ARG;Argentina;urban;Drinking water;2014;0.0039729;Unimproved
+ARG;Argentina;urban;Drinking water;2015;0.9953935;At least basic
+ARG;Argentina;urban;Drinking water;2015;0;Limited service
+ARG;Argentina;urban;Drinking water;2015;0.0011857;Surface water
+ARG;Argentina;urban;Drinking water;2015;0.0034209;Unimproved
+ARG;Argentina;urban;Drinking water;2016;0.9959494;At least basic
+ARG;Argentina;urban;Drinking water;2016;0;Limited service
+ARG;Argentina;urban;Drinking water;2016;0.0011857;Surface water
+ARG;Argentina;urban;Drinking water;2016;0.002865;Unimproved
+ARG;Argentina;urban;Drinking water;2017;0.9965053;At least basic
+ARG;Argentina;urban;Drinking water;2017;0;Limited service
+ARG;Argentina;urban;Drinking water;2017;0.0011857;Surface water
+ARG;Argentina;urban;Drinking water;2017;0.002309;Unimproved
+ARG;Argentina;urban;Drinking water;2018;0.9970613;At least basic
+ARG;Argentina;urban;Drinking water;2018;0;Limited service
+ARG;Argentina;urban;Drinking water;2018;0.0011857;Surface water
+ARG;Argentina;urban;Drinking water;2018;0.0017531;Unimproved
+ARG;Argentina;urban;Drinking water;2019;0.9976172;At least basic
+ARG;Argentina;urban;Drinking water;2019;0;Limited service
+ARG;Argentina;urban;Drinking water;2019;0.0011857;Surface water
+ARG;Argentina;urban;Drinking water;2019;0.0011971;Unimproved
+ARG;Argentina;urban;Drinking water;2020;0.9981731;At least basic
+ARG;Argentina;urban;Drinking water;2020;0;Limited service
+ARG;Argentina;urban;Drinking water;2020;0.0011857;Surface water
+ARG;Argentina;urban;Drinking water;2020;0.0006412;Unimproved
+ARG;Argentina;urban;Drinking water;2021;0.9981731;At least basic
+ARG;Argentina;urban;Drinking water;2021;0;Limited service
+ARG;Argentina;urban;Drinking water;2021;0.0011857;Surface water
+ARG;Argentina;urban;Drinking water;2021;0.0006412;Unimproved
+ARG;Argentina;urban;Drinking water;2022;0.9981731;At least basic
+ARG;Argentina;urban;Drinking water;2022;0;Limited service
+ARG;Argentina;urban;Drinking water;2022;0.0011857;Surface water
+ARG;Argentina;urban;Drinking water;2022;0.0006412;Unimproved
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2000;0.9537014;At least basic
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2000;0.0012222;Limited service
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2000;0.0053195;Surface water
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2000;0.0397569;Unimproved
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2001;0.9555942;At least basic
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2001;0.0012051;Limited service
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2001;0.005179;Surface water
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2001;0.0380217;Unimproved
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2002;0.9574872;At least basic
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2002;0.0011878;Limited service
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2002;0.0050386;Surface water
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2002;0.0362864;Unimproved
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2003;0.9593802;At least basic
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2003;0.0011706;Limited service
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2003;0.0048981;Surface water
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2003;0.0345512;Unimproved
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2004;0.9612733;At least basic
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2004;0.0011532;Limited service
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2004;0.0047576;Surface water
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2004;0.0328159;Unimproved
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2005;0.9631664;At least basic
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2005;0.0011357;Limited service
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2005;0.0046171;Surface water
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2005;0.0310807;Unimproved
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2006;0.9650597;At least basic
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2006;0.0011182;Limited service
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2006;0.0044767;Surface water
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2006;0.0293454;Unimproved
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2007;0.966953;At least basic
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2007;0.0011006;Limited service
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2007;0.0043362;Surface water
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2007;0.0276102;Unimproved
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2008;0.9688464;At least basic
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2008;0.0010829;Limited service
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2008;0.0041957;Surface water
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2008;0.25875;Unimproved
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2009;0.9707398;At least basic
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2009;0.0010652;Limited service
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2009;0.0040552;Surface water
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2009;0.0241397;Unimproved
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2010;0.9726334;At least basic
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2010;0.0010474;Limited service
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2010;0.0039148;Surface water
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2010;0.0224045;Unimproved
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2011;0.974527;At least basic
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2011;0.0010295;Limited service
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2011;0.0037743;Surface water
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2011;0.0206692;Unimproved
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2012;0.9764207;At least basic
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2012;0.0010115;Limited service
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2012;0.0036338;Surface water
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2012;0.18934;Unimproved
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2013;0.9783145;At least basic
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2013;0.0009934;Limited service
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2013;0.0034933;Surface water
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2013;0.0171987;Unimproved
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2014;0.9802083;At least basic
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2014;0.0009753;Limited service
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2014;0.0033529;Surface water
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2014;0.0154635;Unimproved
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2015;0.9821023;At least basic
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2015;0.0009571;Limited service
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2015;0.0032124;Surface water
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2015;0.0137283;Unimproved
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2016;0.9839963;At least basic
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2016;0.0009388;Limited service
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2016;0.0030719;Surface water
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2016;0.11993;Unimproved
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2017;0.9858903;At least basic
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2017;0.0009204;Limited service
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2017;0.0029314;Surface water
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2017;0.0102578;Unimproved
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2018;0.9877845;At least basic
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2018;0.000902;Limited service
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2018;0.002791;Surface water
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2018;0.0085225;Unimproved
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2019;0.9896585;At least basic
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2019;0.0009037;Limited service
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2019;0.0026505;Surface water
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2019;0.0067873;Unimproved
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2020;0.9915325;At least basic
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2020;0.0009054;Limited service
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2020;0.00251;Surface water
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2020;0.005052;Unimproved
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2021;0.9934065;At least basic
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2021;0.0009071;Limited service
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2021;0.0023695;Surface water
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2021;0.0033168;Unimproved
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2022;0.9952805;At least basic
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2022;0.0009088;Limited service
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2022;0.0022291;Surface water
+BOL;Bolivia (Plurinational State of);urban;Drinking water;2022;0.0015816;Unimproved
+BRA;Brazil;urban;Drinking water;2000;0.1537901;Basic service
+BRA;Brazil;urban;Drinking water;2000;0.0019981;Limited service
+BRA;Brazil;urban;Drinking water;2000;0.8276303;Safely managed service
+BRA;Brazil;urban;Drinking water;2000;0.0033372;Surface water
+BRA;Brazil;urban;Drinking water;2000;0.0132443;Unimproved
+BRA;Brazil;urban;Drinking water;2001;0.1539115;Basic service
+BRA;Brazil;urban;Drinking water;2001;0.0019997;Limited service
+BRA;Brazil;urban;Drinking water;2001;0.8282839;Safely managed service
+BRA;Brazil;urban;Drinking water;2001;0.0033372;Surface water
+BRA;Brazil;urban;Drinking water;2001;0.0124677;Unimproved
+BRA;Brazil;urban;Drinking water;2002;0.0154033;Basic service
+BRA;Brazil;urban;Drinking water;2002;0.0020013;Limited service
+BRA;Brazil;urban;Drinking water;2002;0.8289375;Safely managed service
+BRA;Brazil;urban;Drinking water;2002;0.0031958;Surface water
+BRA;Brazil;urban;Drinking water;2002;0.0118325;Unimproved
+BRA;Brazil;urban;Drinking water;2003;0.1541544;Basic service
+BRA;Brazil;urban;Drinking water;2003;0.0020028;Limited service
+BRA;Brazil;urban;Drinking water;2003;0.8295911;Safely managed service
+BRA;Brazil;urban;Drinking water;2003;0.0030543;Surface water
+BRA;Brazil;urban;Drinking water;2003;0.0111973;Unimproved
+BRA;Brazil;urban;Drinking water;2004;0.1542759;Basic service
+BRA;Brazil;urban;Drinking water;2004;0.0020044;Limited service
+BRA;Brazil;urban;Drinking water;2004;0.8302447;Safely managed service
+BRA;Brazil;urban;Drinking water;2004;0.0029129;Surface water
+BRA;Brazil;urban;Drinking water;2004;0.0105621;Unimproved
+BRA;Brazil;urban;Drinking water;2005;0.1543973;Basic service
+BRA;Brazil;urban;Drinking water;2005;0.002006;Limited service
+BRA;Brazil;urban;Drinking water;2005;0.8308983;Safely managed service
+BRA;Brazil;urban;Drinking water;2005;0.0027714;Surface water
+BRA;Brazil;urban;Drinking water;2005;0.0099269;Unimproved
+BRA;Brazil;urban;Drinking water;2006;0.1545188;Basic service
+BRA;Brazil;urban;Drinking water;2006;0.0020076;Limited service
+BRA;Brazil;urban;Drinking water;2006;0.831552;Safely managed service
+BRA;Brazil;urban;Drinking water;2006;0.00263;Surface water
+BRA;Brazil;urban;Drinking water;2006;0.0092917;Unimproved
+BRA;Brazil;urban;Drinking water;2007;0.1546402;Basic service
+BRA;Brazil;urban;Drinking water;2007;0.0020092;Limited service
+BRA;Brazil;urban;Drinking water;2007;0.8322056;Safely managed service
+BRA;Brazil;urban;Drinking water;2007;0.0024885;Surface water
+BRA;Brazil;urban;Drinking water;2007;0.0086565;Unimproved
+BRA;Brazil;urban;Drinking water;2008;0.1547617;Basic service
+BRA;Brazil;urban;Drinking water;2008;0.0020107;Limited service
+BRA;Brazil;urban;Drinking water;2008;0.8328592;Safely managed service
+BRA;Brazil;urban;Drinking water;2008;0.0023471;Surface water
+BRA;Brazil;urban;Drinking water;2008;0.0080213;Unimproved
+BRA;Brazil;urban;Drinking water;2009;0.1548831;Basic service
+BRA;Brazil;urban;Drinking water;2009;0.0020123;Limited service
+BRA;Brazil;urban;Drinking water;2009;0.8335128;Safely managed service
+BRA;Brazil;urban;Drinking water;2009;0.0022056;Surface water
+BRA;Brazil;urban;Drinking water;2009;0.0073861;Unimproved
+BRA;Brazil;urban;Drinking water;2010;0.1550046;Basic service
+BRA;Brazil;urban;Drinking water;2010;0.0020139;Limited service
+BRA;Brazil;urban;Drinking water;2010;0.8341664;Safely managed service
+BRA;Brazil;urban;Drinking water;2010;0.0020642;Surface water
+BRA;Brazil;urban;Drinking water;2010;0.0067509;Unimproved
+BRA;Brazil;urban;Drinking water;2011;0.0155126;Basic service
+BRA;Brazil;urban;Drinking water;2011;0.0020155;Limited service
+BRA;Brazil;urban;Drinking water;2011;0.83482;Safely managed service
+BRA;Brazil;urban;Drinking water;2011;0.0019227;Surface water
+BRA;Brazil;urban;Drinking water;2011;0.0061157;Unimproved
+BRA;Brazil;urban;Drinking water;2012;0.1552475;Basic service
+BRA;Brazil;urban;Drinking water;2012;0.002017;Limited service
+BRA;Brazil;urban;Drinking water;2012;0.8354736;Safely managed service
+BRA;Brazil;urban;Drinking water;2012;0.0017813;Surface water
+BRA;Brazil;urban;Drinking water;2012;0.0054805;Unimproved
+BRA;Brazil;urban;Drinking water;2013;0.1505443;Basic service
+BRA;Brazil;urban;Drinking water;2013;0.0020186;Limited service
+BRA;Brazil;urban;Drinking water;2013;0.8409519;Safely managed service
+BRA;Brazil;urban;Drinking water;2013;0.0017813;Surface water
+BRA;Brazil;urban;Drinking water;2013;0.0047039;Unimproved
+BRA;Brazil;urban;Drinking water;2014;0.1458335;Basic service
+BRA;Brazil;urban;Drinking water;2014;0.0020202;Limited service
+BRA;Brazil;urban;Drinking water;2014;0.8464378;Safely managed service
+BRA;Brazil;urban;Drinking water;2014;0.0017813;Surface water
+BRA;Brazil;urban;Drinking water;2014;0.0039273;Unimproved
+BRA;Brazil;urban;Drinking water;2015;0.1411151;Basic service
+BRA;Brazil;urban;Drinking water;2015;0.0020218;Limited service
+BRA;Brazil;urban;Drinking water;2015;0.8519312;Safely managed service
+BRA;Brazil;urban;Drinking water;2015;0.0017813;Surface water
+BRA;Brazil;urban;Drinking water;2015;0.0031506;Unimproved
+BRA;Brazil;urban;Drinking water;2016;0.1363893;Basic service
+BRA;Brazil;urban;Drinking water;2016;0.0020234;Limited service
+BRA;Brazil;urban;Drinking water;2016;0.8574321;Safely managed service
+BRA;Brazil;urban;Drinking water;2016;0.0017813;Surface water
+BRA;Brazil;urban;Drinking water;2016;0.002374;Unimproved
+BRA;Brazil;urban;Drinking water;2017;0.1336808;Basic service
+BRA;Brazil;urban;Drinking water;2017;0;Limited service
+BRA;Brazil;urban;Drinking water;2017;0.8629406;Safely managed service
+BRA;Brazil;urban;Drinking water;2017;0.0017813;Surface water
+BRA;Brazil;urban;Drinking water;2017;0.0015973;Unimproved
+BRA;Brazil;urban;Drinking water;2018;0.1289414;Basic service
+BRA;Brazil;urban;Drinking water;2018;0;Limited service
+BRA;Brazil;urban;Drinking water;2018;0.8684566;Safely managed service
+BRA;Brazil;urban;Drinking water;2018;0.0017813;Surface water
+BRA;Brazil;urban;Drinking water;2018;0.0008207;Unimproved
+BRA;Brazil;urban;Drinking water;2019;0.1241945;Basic service
+BRA;Brazil;urban;Drinking water;2019;0;Limited service
+BRA;Brazil;urban;Drinking water;2019;0.8739802;Safely managed service
+BRA;Brazil;urban;Drinking water;2019;0.0017813;Surface water
+BRA;Brazil;urban;Drinking water;2019;0.0000441;Unimproved
+BRA;Brazil;urban;Drinking water;2020;0.1193526;Basic service
+BRA;Brazil;urban;Drinking water;2020;0;Limited service
+BRA;Brazil;urban;Drinking water;2020;0.8788675;Safely managed service
+BRA;Brazil;urban;Drinking water;2020;0.00178;Surface water
+BRA;Brazil;urban;Drinking water;2020;0;Unimproved
+BRA;Brazil;urban;Drinking water;2021;0.1145052;Basic service
+BRA;Brazil;urban;Drinking water;2021;0;Limited service
+BRA;Brazil;urban;Drinking water;2021;0.8837162;Safely managed service
+BRA;Brazil;urban;Drinking water;2021;0.0017786;Surface water
+BRA;Brazil;urban;Drinking water;2021;0;Unimproved
+BRA;Brazil;urban;Drinking water;2022;0.1096576;Basic service
+BRA;Brazil;urban;Drinking water;2022;0;Limited service
+BRA;Brazil;urban;Drinking water;2022;0.8885638;Safely managed service
+BRA;Brazil;urban;Drinking water;2022;0.0017786;Surface water
+BRA;Brazil;urban;Drinking water;2022;0;Unimproved
+CHL;Chile;urban;Drinking water;2000;0.0115795;Basic service
+CHL;Chile;urban;Drinking water;2000;0;Limited service
+CHL;Chile;urban;Drinking water;2000;0.979428;Safely managed service
+CHL;Chile;urban;Drinking water;2000;0;Surface water
+CHL;Chile;urban;Drinking water;2000;0.0089925;Unimproved
+CHL;Chile;urban;Drinking water;2001;0.10914;Basic service
+CHL;Chile;urban;Drinking water;2001;0;Limited service
+CHL;Chile;urban;Drinking water;2001;0.9805993;Safely managed service
+CHL;Chile;urban;Drinking water;2001;0;Surface water
+CHL;Chile;urban;Drinking water;2001;0.0084867;Unimproved
+CHL;Chile;urban;Drinking water;2002;0.0102478;Basic service
+CHL;Chile;urban;Drinking water;2002;0;Limited service
+CHL;Chile;urban;Drinking water;2002;0.9817712;Safely managed service
+CHL;Chile;urban;Drinking water;2002;0;Surface water
+CHL;Chile;urban;Drinking water;2002;0.007981;Unimproved
+CHL;Chile;urban;Drinking water;2003;0.0095809;Basic service
+CHL;Chile;urban;Drinking water;2003;0;Limited service
+CHL;Chile;urban;Drinking water;2003;0.9829439;Safely managed service
+CHL;Chile;urban;Drinking water;2003;0;Surface water
+CHL;Chile;urban;Drinking water;2003;0.0074753;Unimproved
+CHL;Chile;urban;Drinking water;2004;0.0089133;Basic service
+CHL;Chile;urban;Drinking water;2004;0;Limited service
+CHL;Chile;urban;Drinking water;2004;0.9841172;Safely managed service
+CHL;Chile;urban;Drinking water;2004;0;Surface water
+CHL;Chile;urban;Drinking water;2004;0.0069695;Unimproved
+CHL;Chile;urban;Drinking water;2005;0.008245;Basic service
+CHL;Chile;urban;Drinking water;2005;0;Limited service
+CHL;Chile;urban;Drinking water;2005;0.9852912;Safely managed service
+CHL;Chile;urban;Drinking water;2005;0;Surface water
+CHL;Chile;urban;Drinking water;2005;0.0064638;Unimproved
+CHL;Chile;urban;Drinking water;2006;0.007576;Basic service
+CHL;Chile;urban;Drinking water;2006;0;Limited service
+CHL;Chile;urban;Drinking water;2006;0.9864659;Safely managed service
+CHL;Chile;urban;Drinking water;2006;0;Surface water
+CHL;Chile;urban;Drinking water;2006;0.0059581;Unimproved
+CHL;Chile;urban;Drinking water;2007;0.0071679;Basic service
+CHL;Chile;urban;Drinking water;2007;0;Limited service
+CHL;Chile;urban;Drinking water;2007;0.9873797;Safely managed service
+CHL;Chile;urban;Drinking water;2007;0;Surface water
+CHL;Chile;urban;Drinking water;2007;0.0054523;Unimproved
+CHL;Chile;urban;Drinking water;2008;0.0068784;Basic service
+CHL;Chile;urban;Drinking water;2008;0;Limited service
+CHL;Chile;urban;Drinking water;2008;0.988175;Safely managed service
+CHL;Chile;urban;Drinking water;2008;0;Surface water
+CHL;Chile;urban;Drinking water;2008;0.0049466;Unimproved
+CHL;Chile;urban;Drinking water;2009;0.0065887;Basic service
+CHL;Chile;urban;Drinking water;2009;0;Limited service
+CHL;Chile;urban;Drinking water;2009;0.9889705;Safely managed service
+CHL;Chile;urban;Drinking water;2009;0;Surface water
+CHL;Chile;urban;Drinking water;2009;0.0044408;Unimproved
+CHL;Chile;urban;Drinking water;2010;0.0062986;Basic service
+CHL;Chile;urban;Drinking water;2010;0;Limited service
+CHL;Chile;urban;Drinking water;2010;0.9897663;Safely managed service
+CHL;Chile;urban;Drinking water;2010;0;Surface water
+CHL;Chile;urban;Drinking water;2010;0.0039351;Unimproved
+CHL;Chile;urban;Drinking water;2011;0.0060082;Basic service
+CHL;Chile;urban;Drinking water;2011;0;Limited service
+CHL;Chile;urban;Drinking water;2011;0.9905624;Safely managed service
+CHL;Chile;urban;Drinking water;2011;0;Surface water
+CHL;Chile;urban;Drinking water;2011;0.0034294;Unimproved
+CHL;Chile;urban;Drinking water;2012;0.0057175;Basic service
+CHL;Chile;urban;Drinking water;2012;0;Limited service
+CHL;Chile;urban;Drinking water;2012;0.9913588;Safely managed service
+CHL;Chile;urban;Drinking water;2012;0;Surface water
+CHL;Chile;urban;Drinking water;2012;0.0029236;Unimproved
+CHL;Chile;urban;Drinking water;2013;0.005534;Basic service
+CHL;Chile;urban;Drinking water;2013;0;Limited service
+CHL;Chile;urban;Drinking water;2013;0.9920481;Safely managed service
+CHL;Chile;urban;Drinking water;2013;0;Surface water
+CHL;Chile;urban;Drinking water;2013;0.0024179;Unimproved
+CHL;Chile;urban;Drinking water;2014;0.0055836;Basic service
+CHL;Chile;urban;Drinking water;2014;0;Limited service
+CHL;Chile;urban;Drinking water;2014;0.9925043;Safely managed service
+CHL;Chile;urban;Drinking water;2014;0;Surface water
+CHL;Chile;urban;Drinking water;2014;0.0019122;Unimproved
+CHL;Chile;urban;Drinking water;2015;0.0056332;Basic service
+CHL;Chile;urban;Drinking water;2015;0;Limited service
+CHL;Chile;urban;Drinking water;2015;0.9929604;Safely managed service
+CHL;Chile;urban;Drinking water;2015;0;Surface water
+CHL;Chile;urban;Drinking water;2015;0.0014064;Unimproved
+CHL;Chile;urban;Drinking water;2016;0.0056829;Basic service
+CHL;Chile;urban;Drinking water;2016;0;Limited service
+CHL;Chile;urban;Drinking water;2016;0.9934164;Safely managed service
+CHL;Chile;urban;Drinking water;2016;0;Surface water
+CHL;Chile;urban;Drinking water;2016;0.0009007;Unimproved
+CHL;Chile;urban;Drinking water;2017;0.0057326;Basic service
+CHL;Chile;urban;Drinking water;2017;0;Limited service
+CHL;Chile;urban;Drinking water;2017;0.9938724;Safely managed service
+CHL;Chile;urban;Drinking water;2017;0;Surface water
+CHL;Chile;urban;Drinking water;2017;0.000395;Unimproved
+CHL;Chile;urban;Drinking water;2018;0.0057818;Basic service
+CHL;Chile;urban;Drinking water;2018;0;Limited service
+CHL;Chile;urban;Drinking water;2018;0.9942182;Safely managed service
+CHL;Chile;urban;Drinking water;2018;0;Surface water
+CHL;Chile;urban;Drinking water;2018;0;Unimproved
+CHL;Chile;urban;Drinking water;2019;0.0057818;Basic service
+CHL;Chile;urban;Drinking water;2019;0;Limited service
+CHL;Chile;urban;Drinking water;2019;0.9942182;Safely managed service
+CHL;Chile;urban;Drinking water;2019;0;Surface water
+CHL;Chile;urban;Drinking water;2019;0;Unimproved
+CHL;Chile;urban;Drinking water;2020;0.0057818;Basic service
+CHL;Chile;urban;Drinking water;2020;0;Limited service
+CHL;Chile;urban;Drinking water;2020;0.9942182;Safely managed service
+CHL;Chile;urban;Drinking water;2020;0;Surface water
+CHL;Chile;urban;Drinking water;2020;0;Unimproved
+CHL;Chile;urban;Drinking water;2021;0.0057818;Basic service
+CHL;Chile;urban;Drinking water;2021;0;Limited service
+CHL;Chile;urban;Drinking water;2021;0.9942182;Safely managed service
+CHL;Chile;urban;Drinking water;2021;0;Surface water
+CHL;Chile;urban;Drinking water;2021;0;Unimproved
+CHL;Chile;urban;Drinking water;2022;0.0057818;Basic service
+CHL;Chile;urban;Drinking water;2022;0;Limited service
+CHL;Chile;urban;Drinking water;2022;0.9942182;Safely managed service
+CHL;Chile;urban;Drinking water;2022;0;Surface water
+CHL;Chile;urban;Drinking water;2022;0;Unimproved
+COL;Colombia;urban;Drinking water;2000;0.1766491;Basic service
+COL;Colombia;urban;Drinking water;2000;0.0001456;Limited service
+COL;Colombia;urban;Drinking water;2000;0.8063933;Safely managed service
+COL;Colombia;urban;Drinking water;2000;0.0015962;Surface water
+COL;Colombia;urban;Drinking water;2000;0.0152158;Unimproved
+COL;Colombia;urban;Drinking water;2001;0.1767645;Basic service
+COL;Colombia;urban;Drinking water;2001;0.0001757;Limited service
+COL;Colombia;urban;Drinking water;2001;0.8070569;Safely managed service
+COL;Colombia;urban;Drinking water;2001;0.0016423;Surface water
+COL;Colombia;urban;Drinking water;2001;0.0143606;Unimproved
+COL;Colombia;urban;Drinking water;2002;0.1768797;Basic service
+COL;Colombia;urban;Drinking water;2002;0.0002059;Limited service
+COL;Colombia;urban;Drinking water;2002;0.8077205;Safely managed service
+COL;Colombia;urban;Drinking water;2002;0.0016885;Surface water
+COL;Colombia;urban;Drinking water;2002;0.0135054;Unimproved
+COL;Colombia;urban;Drinking water;2003;0.0176995;Basic service
+COL;Colombia;urban;Drinking water;2003;0.0002361;Limited service
+COL;Colombia;urban;Drinking water;2003;0.8083841;Safely managed service
+COL;Colombia;urban;Drinking water;2003;0.0017346;Surface water
+COL;Colombia;urban;Drinking water;2003;0.0126502;Unimproved
+COL;Colombia;urban;Drinking water;2004;0.1771102;Basic service
+COL;Colombia;urban;Drinking water;2004;0.0002664;Limited service
+COL;Colombia;urban;Drinking water;2004;0.8090477;Safely managed service
+COL;Colombia;urban;Drinking water;2004;0.0017807;Surface water
+COL;Colombia;urban;Drinking water;2004;0.11795;Unimproved
+COL;Colombia;urban;Drinking water;2005;0.1772254;Basic service
+COL;Colombia;urban;Drinking water;2005;0.0002967;Limited service
+COL;Colombia;urban;Drinking water;2005;0.8097113;Safely managed service
+COL;Colombia;urban;Drinking water;2005;0.0018268;Surface water
+COL;Colombia;urban;Drinking water;2005;0.0109398;Unimproved
+COL;Colombia;urban;Drinking water;2006;0.1773405;Basic service
+COL;Colombia;urban;Drinking water;2006;0.0003271;Limited service
+COL;Colombia;urban;Drinking water;2006;0.8103749;Safely managed service
+COL;Colombia;urban;Drinking water;2006;0.0018729;Surface water
+COL;Colombia;urban;Drinking water;2006;0.0100846;Unimproved
+COL;Colombia;urban;Drinking water;2007;0.1779462;Basic service
+COL;Colombia;urban;Drinking water;2007;0.0003576;Limited service
+COL;Colombia;urban;Drinking water;2007;0.8105478;Safely managed service
+COL;Colombia;urban;Drinking water;2007;0.001919;Surface water
+COL;Colombia;urban;Drinking water;2007;0.0092294;Unimproved
+COL;Colombia;urban;Drinking water;2008;0.1785526;Basic service
+COL;Colombia;urban;Drinking water;2008;0.0003881;Limited service
+COL;Colombia;urban;Drinking water;2008;0.81072;Safely managed service
+COL;Colombia;urban;Drinking water;2008;0.0019651;Surface water
+COL;Colombia;urban;Drinking water;2008;0.0083742;Unimproved
+COL;Colombia;urban;Drinking water;2009;0.1791599;Basic service
+COL;Colombia;urban;Drinking water;2009;0.0004186;Limited service
+COL;Colombia;urban;Drinking water;2009;0.8108913;Safely managed service
+COL;Colombia;urban;Drinking water;2009;0.0020112;Surface water
+COL;Colombia;urban;Drinking water;2009;0.007519;Unimproved
+COL;Colombia;urban;Drinking water;2010;0.1797679;Basic service
+COL;Colombia;urban;Drinking water;2010;0.0004492;Limited service
+COL;Colombia;urban;Drinking water;2010;0.8110618;Safely managed service
+COL;Colombia;urban;Drinking water;2010;0.0020573;Surface water
+COL;Colombia;urban;Drinking water;2010;0.0066638;Unimproved
+COL;Colombia;urban;Drinking water;2011;0.1803766;Basic service
+COL;Colombia;urban;Drinking water;2011;0.0004798;Limited service
+COL;Colombia;urban;Drinking water;2011;0.8112316;Safely managed service
+COL;Colombia;urban;Drinking water;2011;0.0021034;Surface water
+COL;Colombia;urban;Drinking water;2011;0.0058086;Unimproved
+COL;Colombia;urban;Drinking water;2012;0.1809861;Basic service
+COL;Colombia;urban;Drinking water;2012;0.0005105;Limited service
+COL;Colombia;urban;Drinking water;2012;0.8114005;Safely managed service
+COL;Colombia;urban;Drinking water;2012;0.0021495;Surface water
+COL;Colombia;urban;Drinking water;2012;0.0049534;Unimproved
+COL;Colombia;urban;Drinking water;2013;0.1815963;Basic service
+COL;Colombia;urban;Drinking water;2013;0.0005412;Limited service
+COL;Colombia;urban;Drinking water;2013;0.8115686;Safely managed service
+COL;Colombia;urban;Drinking water;2013;0.0021956;Surface water
+COL;Colombia;urban;Drinking water;2013;0.0040982;Unimproved
+COL;Colombia;urban;Drinking water;2014;0.1822073;Basic service
+COL;Colombia;urban;Drinking water;2014;0.000572;Limited service
+COL;Colombia;urban;Drinking water;2014;0.811736;Safely managed service
+COL;Colombia;urban;Drinking water;2014;0.0022417;Surface water
+COL;Colombia;urban;Drinking water;2014;0.003243;Unimproved
+COL;Colombia;urban;Drinking water;2015;0.0182819;Basic service
+COL;Colombia;urban;Drinking water;2015;0.0006028;Limited service
+COL;Colombia;urban;Drinking water;2015;0.8119025;Safely managed service
+COL;Colombia;urban;Drinking water;2015;0.0022878;Surface water
+COL;Colombia;urban;Drinking water;2015;0.0023878;Unimproved
+COL;Colombia;urban;Drinking water;2016;0.1834315;Basic service
+COL;Colombia;urban;Drinking water;2016;0.0006337;Limited service
+COL;Colombia;urban;Drinking water;2016;0.8120682;Safely managed service
+COL;Colombia;urban;Drinking water;2016;0.002334;Surface water
+COL;Colombia;urban;Drinking water;2016;0.0015326;Unimproved
+COL;Colombia;urban;Drinking water;2017;0.1840448;Basic service
+COL;Colombia;urban;Drinking water;2017;0.0006646;Limited service
+COL;Colombia;urban;Drinking water;2017;0.8122331;Safely managed service
+COL;Colombia;urban;Drinking water;2017;0.0023801;Surface water
+COL;Colombia;urban;Drinking water;2017;0.0006774;Unimproved
+COL;Colombia;urban;Drinking water;2018;0.0184626;Basic service
+COL;Colombia;urban;Drinking water;2018;0.0006955;Limited service
+COL;Colombia;urban;Drinking water;2018;0.8122528;Safely managed service
+COL;Colombia;urban;Drinking water;2018;0.0024257;Surface water
+COL;Colombia;urban;Drinking water;2018;0;Unimproved
+COL;Colombia;urban;Drinking water;2019;0.1850824;Basic service
+COL;Colombia;urban;Drinking water;2019;0.0007259;Limited service
+COL;Colombia;urban;Drinking water;2019;0.811722;Safely managed service
+COL;Colombia;urban;Drinking water;2019;0.0024697;Surface water
+COL;Colombia;urban;Drinking water;2019;0;Unimproved
+COL;Colombia;urban;Drinking water;2020;0.1855387;Basic service
+COL;Colombia;urban;Drinking water;2020;0.0007563;Limited service
+COL;Colombia;urban;Drinking water;2020;0.8111914;Safely managed service
+COL;Colombia;urban;Drinking water;2020;0.0025136;Surface water
+COL;Colombia;urban;Drinking water;2020;0;Unimproved
+COL;Colombia;urban;Drinking water;2021;0.0186472;Basic service
+COL;Colombia;urban;Drinking water;2021;0.0007887;Limited service
+COL;Colombia;urban;Drinking water;2021;0.8127393;Safely managed service
+COL;Colombia;urban;Drinking water;2021;0;Surface water
+COL;Colombia;urban;Drinking water;2021;0;Unimproved
+COL;Colombia;urban;Drinking water;2022;0.1869377;Basic service
+COL;Colombia;urban;Drinking water;2022;0.0008192;Limited service
+COL;Colombia;urban;Drinking water;2022;0.8122431;Safely managed service
+COL;Colombia;urban;Drinking water;2022;0;Surface water
+COL;Colombia;urban;Drinking water;2022;0;Unimproved
+CRI;Costa Rica;urban;Drinking water;2000;0.1930099;Basic service
+CRI;Costa Rica;urban;Drinking water;2000;0.0017978;Limited service
+CRI;Costa Rica;urban;Drinking water;2000;0.7984934;Safely managed service
+CRI;Costa Rica;urban;Drinking water;2000;0.0031065;Surface water
+CRI;Costa Rica;urban;Drinking water;2000;0.0035923;Unimproved
+CRI;Costa Rica;urban;Drinking water;2001;0.1930859;Basic service
+CRI;Costa Rica;urban;Drinking water;2001;0.0017985;Limited service
+CRI;Costa Rica;urban;Drinking water;2001;0.798808;Safely managed service
+CRI;Costa Rica;urban;Drinking water;2001;0.002918;Surface water
+CRI;Costa Rica;urban;Drinking water;2001;0.0033895;Unimproved
+CRI;Costa Rica;urban;Drinking water;2002;0.0193162;Basic service
+CRI;Costa Rica;urban;Drinking water;2002;0.0017992;Limited service
+CRI;Costa Rica;urban;Drinking water;2002;0.7991225;Safely managed service
+CRI;Costa Rica;urban;Drinking water;2002;0.0027295;Surface water
+CRI;Costa Rica;urban;Drinking water;2002;0.0031867;Unimproved
+CRI;Costa Rica;urban;Drinking water;2003;0.0193238;Basic service
+CRI;Costa Rica;urban;Drinking water;2003;0.0017999;Limited service
+CRI;Costa Rica;urban;Drinking water;2003;0.7994371;Safely managed service
+CRI;Costa Rica;urban;Drinking water;2003;0.002541;Surface water
+CRI;Costa Rica;urban;Drinking water;2003;0.0029839;Unimproved
+CRI;Costa Rica;urban;Drinking water;2004;0.0193314;Basic service
+CRI;Costa Rica;urban;Drinking water;2004;0.0018006;Limited service
+CRI;Costa Rica;urban;Drinking water;2004;0.7997517;Safely managed service
+CRI;Costa Rica;urban;Drinking water;2004;0.0023525;Surface water
+CRI;Costa Rica;urban;Drinking water;2004;0.0027811;Unimproved
+CRI;Costa Rica;urban;Drinking water;2005;0.1933901;Basic service
+CRI;Costa Rica;urban;Drinking water;2005;0.0018013;Limited service
+CRI;Costa Rica;urban;Drinking water;2005;0.8000662;Safely managed service
+CRI;Costa Rica;urban;Drinking water;2005;0.002164;Surface water
+CRI;Costa Rica;urban;Drinking water;2005;0.0025783;Unimproved
+CRI;Costa Rica;urban;Drinking water;2006;0.1934661;Basic service
+CRI;Costa Rica;urban;Drinking water;2006;0.0018021;Limited service
+CRI;Costa Rica;urban;Drinking water;2006;0.8003808;Safely managed service
+CRI;Costa Rica;urban;Drinking water;2006;0.0019755;Surface water
+CRI;Costa Rica;urban;Drinking water;2006;0.0023756;Unimproved
+CRI;Costa Rica;urban;Drinking water;2007;0.1935421;Basic service
+CRI;Costa Rica;urban;Drinking water;2007;0.0018028;Limited service
+CRI;Costa Rica;urban;Drinking water;2007;0.8006953;Safely managed service
+CRI;Costa Rica;urban;Drinking water;2007;0.001787;Surface water
+CRI;Costa Rica;urban;Drinking water;2007;0.0021728;Unimproved
+CRI;Costa Rica;urban;Drinking water;2008;0.1936182;Basic service
+CRI;Costa Rica;urban;Drinking water;2008;0.0018035;Limited service
+CRI;Costa Rica;urban;Drinking water;2008;0.8010099;Safely managed service
+CRI;Costa Rica;urban;Drinking water;2008;0.0015985;Surface water
+CRI;Costa Rica;urban;Drinking water;2008;0.00197;Unimproved
+CRI;Costa Rica;urban;Drinking water;2009;0.1936942;Basic service
+CRI;Costa Rica;urban;Drinking water;2009;0.0018042;Limited service
+CRI;Costa Rica;urban;Drinking water;2009;0.8013244;Safely managed service
+CRI;Costa Rica;urban;Drinking water;2009;0.00141;Surface water
+CRI;Costa Rica;urban;Drinking water;2009;0.0017672;Unimproved
+CRI;Costa Rica;urban;Drinking water;2010;0.1934119;Basic service
+CRI;Costa Rica;urban;Drinking water;2010;0.0021633;Limited service
+CRI;Costa Rica;urban;Drinking water;2010;0.801639;Safely managed service
+CRI;Costa Rica;urban;Drinking water;2010;0.0012215;Surface water
+CRI;Costa Rica;urban;Drinking water;2010;0.0015644;Unimproved
+CRI;Costa Rica;urban;Drinking water;2011;0.1931292;Basic service
+CRI;Costa Rica;urban;Drinking water;2011;0.0025226;Limited service
+CRI;Costa Rica;urban;Drinking water;2011;0.8019536;Safely managed service
+CRI;Costa Rica;urban;Drinking water;2011;0.001033;Surface water
+CRI;Costa Rica;urban;Drinking water;2011;0.0013616;Unimproved
+CRI;Costa Rica;urban;Drinking water;2012;0.1933187;Basic service
+CRI;Costa Rica;urban;Drinking water;2012;0.0024099;Limited service
+CRI;Costa Rica;urban;Drinking water;2012;0.8022681;Safely managed service
+CRI;Costa Rica;urban;Drinking water;2012;0.0008445;Surface water
+CRI;Costa Rica;urban;Drinking water;2012;0.0011588;Unimproved
+CRI;Costa Rica;urban;Drinking water;2013;0.1935082;Basic service
+CRI;Costa Rica;urban;Drinking water;2013;0.0022972;Limited service
+CRI;Costa Rica;urban;Drinking water;2013;0.8025827;Safely managed service
+CRI;Costa Rica;urban;Drinking water;2013;0.000656;Surface water
+CRI;Costa Rica;urban;Drinking water;2013;0.000956;Unimproved
+CRI;Costa Rica;urban;Drinking water;2014;0.1936978;Basic service
+CRI;Costa Rica;urban;Drinking water;2014;0.0021843;Limited service
+CRI;Costa Rica;urban;Drinking water;2014;0.8028972;Safely managed service
+CRI;Costa Rica;urban;Drinking water;2014;0.0004675;Surface water
+CRI;Costa Rica;urban;Drinking water;2014;0.0007532;Unimproved
+CRI;Costa Rica;urban;Drinking water;2015;0.1938875;Basic service
+CRI;Costa Rica;urban;Drinking water;2015;0.0020713;Limited service
+CRI;Costa Rica;urban;Drinking water;2015;0.8032118;Safely managed service
+CRI;Costa Rica;urban;Drinking water;2015;0.000279;Surface water
+CRI;Costa Rica;urban;Drinking water;2015;0.0005504;Unimproved
+CRI;Costa Rica;urban;Drinking water;2016;0.1940773;Basic service
+CRI;Costa Rica;urban;Drinking water;2016;0.0019583;Limited service
+CRI;Costa Rica;urban;Drinking water;2016;0.8035263;Safely managed service
+CRI;Costa Rica;urban;Drinking water;2016;0.0000905;Surface water
+CRI;Costa Rica;urban;Drinking water;2016;0.0003476;Unimproved
+CRI;Costa Rica;urban;Drinking water;2017;0.1942672;Basic service
+CRI;Costa Rica;urban;Drinking water;2017;0.0018451;Limited service
+CRI;Costa Rica;urban;Drinking water;2017;0.8038409;Safely managed service
+CRI;Costa Rica;urban;Drinking water;2017;0;Surface water
+CRI;Costa Rica;urban;Drinking water;2017;0.0000468;Unimproved
+CRI;Costa Rica;urban;Drinking water;2018;0.1943902;Basic service
+CRI;Costa Rica;urban;Drinking water;2018;0.0017313;Limited service
+CRI;Costa Rica;urban;Drinking water;2018;0.8038785;Safely managed service
+CRI;Costa Rica;urban;Drinking water;2018;0;Surface water
+CRI;Costa Rica;urban;Drinking water;2018;0;Unimproved
+CRI;Costa Rica;urban;Drinking water;2019;0.1945041;Basic service
+CRI;Costa Rica;urban;Drinking water;2019;0.0016174;Limited service
+CRI;Costa Rica;urban;Drinking water;2019;0.8038785;Safely managed service
+CRI;Costa Rica;urban;Drinking water;2019;0;Surface water
+CRI;Costa Rica;urban;Drinking water;2019;0;Unimproved
+CRI;Costa Rica;urban;Drinking water;2020;0.0194618;Basic service
+CRI;Costa Rica;urban;Drinking water;2020;0.0015035;Limited service
+CRI;Costa Rica;urban;Drinking water;2020;0.8038785;Safely managed service
+CRI;Costa Rica;urban;Drinking water;2020;0;Surface water
+CRI;Costa Rica;urban;Drinking water;2020;0;Unimproved
+CRI;Costa Rica;urban;Drinking water;2021;0.0194618;Basic service
+CRI;Costa Rica;urban;Drinking water;2021;0.0015035;Limited service
+CRI;Costa Rica;urban;Drinking water;2021;0.8038785;Safely managed service
+CRI;Costa Rica;urban;Drinking water;2021;0;Surface water
+CRI;Costa Rica;urban;Drinking water;2021;0;Unimproved
+CRI;Costa Rica;urban;Drinking water;2022;0.0194618;Basic service
+CRI;Costa Rica;urban;Drinking water;2022;0.0015035;Limited service
+CRI;Costa Rica;urban;Drinking water;2022;0.8038785;Safely managed service
+CRI;Costa Rica;urban;Drinking water;2022;0;Surface water
+CRI;Costa Rica;urban;Drinking water;2022;0;Unimproved
+ECU;Ecuador;urban;Drinking water;2000;0.2257199;Basic service
+ECU;Ecuador;urban;Drinking water;2000;0.0059913;Limited service
+ECU;Ecuador;urban;Drinking water;2000;0.6824119;Safely managed service
+ECU;Ecuador;urban;Drinking water;2000;0.0028459;Surface water
+ECU;Ecuador;urban;Drinking water;2000;0.830309;Unimproved
+ECU;Ecuador;urban;Drinking water;2001;0.2270003;Basic service
+ECU;Ecuador;urban;Drinking water;2001;0.0060253;Limited service
+ECU;Ecuador;urban;Drinking water;2001;0.6862828;Safely managed service
+ECU;Ecuador;urban;Drinking water;2001;0.0028459;Surface water
+ECU;Ecuador;urban;Drinking water;2001;0.778457;Unimproved
+ECU;Ecuador;urban;Drinking water;2002;0.0228675;Basic service
+ECU;Ecuador;urban;Drinking water;2002;0.005665;Limited service
+ECU;Ecuador;urban;Drinking water;2002;0.6901536;Safely managed service
+ECU;Ecuador;urban;Drinking water;2002;0.0028459;Surface water
+ECU;Ecuador;urban;Drinking water;2002;0.726604;Unimproved
+ECU;Ecuador;urban;Drinking water;2003;0.2303541;Basic service
+ECU;Ecuador;urban;Drinking water;2003;0.0053002;Limited service
+ECU;Ecuador;urban;Drinking water;2003;0.6940245;Safely managed service
+ECU;Ecuador;urban;Drinking water;2003;0.002742;Surface water
+ECU;Ecuador;urban;Drinking water;2003;0.675792;Unimproved
+ECU;Ecuador;urban;Drinking water;2004;0.2320376;Basic service
+ECU;Ecuador;urban;Drinking water;2004;0.0049311;Limited service
+ECU;Ecuador;urban;Drinking water;2004;0.6978954;Safely managed service
+ECU;Ecuador;urban;Drinking water;2004;0.002638;Surface water
+ECU;Ecuador;urban;Drinking water;2004;0.624979;Unimproved
+ECU;Ecuador;urban;Drinking water;2005;0.2337256;Basic service
+ECU;Ecuador;urban;Drinking water;2005;0.0045574;Limited service
+ECU;Ecuador;urban;Drinking water;2005;0.7017663;Safely managed service
+ECU;Ecuador;urban;Drinking water;2005;0.0025341;Surface water
+ECU;Ecuador;urban;Drinking water;2005;0.0574167;Unimproved
+ECU;Ecuador;urban;Drinking water;2006;0.0235418;Basic service
+ECU;Ecuador;urban;Drinking water;2006;0.0041794;Limited service
+ECU;Ecuador;urban;Drinking water;2006;0.7056371;Safely managed service
+ECU;Ecuador;urban;Drinking water;2006;0.0024301;Surface water
+ECU;Ecuador;urban;Drinking water;2006;0.0523354;Unimproved
+ECU;Ecuador;urban;Drinking water;2007;0.2371148;Basic service
+ECU;Ecuador;urban;Drinking water;2007;0.003797;Limited service
+ECU;Ecuador;urban;Drinking water;2007;0.709508;Safely managed service
+ECU;Ecuador;urban;Drinking water;2007;0.0023261;Surface water
+ECU;Ecuador;urban;Drinking water;2007;0.0472541;Unimproved
+ECU;Ecuador;urban;Drinking water;2008;0.0238816;Basic service
+ECU;Ecuador;urban;Drinking water;2008;0.0034101;Limited service
+ECU;Ecuador;urban;Drinking water;2008;0.7133789;Safely managed service
+ECU;Ecuador;urban;Drinking water;2008;0.0022222;Surface water
+ECU;Ecuador;urban;Drinking water;2008;0.0421729;Unimproved
+ECU;Ecuador;urban;Drinking water;2009;0.2405216;Basic service
+ECU;Ecuador;urban;Drinking water;2009;0.0030188;Limited service
+ECU;Ecuador;urban;Drinking water;2009;0.7172498;Safely managed service
+ECU;Ecuador;urban;Drinking water;2009;0.0021182;Surface water
+ECU;Ecuador;urban;Drinking water;2009;0.0370916;Unimproved
+ECU;Ecuador;urban;Drinking water;2010;0.2422317;Basic service
+ECU;Ecuador;urban;Drinking water;2010;0.0026231;Limited service
+ECU;Ecuador;urban;Drinking water;2010;0.7211206;Safely managed service
+ECU;Ecuador;urban;Drinking water;2010;0.0020143;Surface water
+ECU;Ecuador;urban;Drinking water;2010;0.0320103;Unimproved
+ECU;Ecuador;urban;Drinking water;2011;0.2439462;Basic service
+ECU;Ecuador;urban;Drinking water;2011;0.0022229;Limited service
+ECU;Ecuador;urban;Drinking water;2011;0.7249915;Safely managed service
+ECU;Ecuador;urban;Drinking water;2011;0.0019103;Surface water
+ECU;Ecuador;urban;Drinking water;2011;0.0269291;Unimproved
+ECU;Ecuador;urban;Drinking water;2012;0.2456651;Basic service
+ECU;Ecuador;urban;Drinking water;2012;0.0018184;Limited service
+ECU;Ecuador;urban;Drinking water;2012;0.7288624;Safely managed service
+ECU;Ecuador;urban;Drinking water;2012;0.0018063;Surface water
+ECU;Ecuador;urban;Drinking water;2012;0.0218478;Unimproved
+ECU;Ecuador;urban;Drinking water;2013;0.2473884;Basic service
+ECU;Ecuador;urban;Drinking water;2013;0.0014094;Limited service
+ECU;Ecuador;urban;Drinking water;2013;0.7327333;Safely managed service
+ECU;Ecuador;urban;Drinking water;2013;0.0017024;Surface water
+ECU;Ecuador;urban;Drinking water;2013;0.0167666;Unimproved
+ECU;Ecuador;urban;Drinking water;2014;0.2491162;Basic service
+ECU;Ecuador;urban;Drinking water;2014;0.0009959;Limited service
+ECU;Ecuador;urban;Drinking water;2014;0.7366041;Safely managed service
+ECU;Ecuador;urban;Drinking water;2014;0.0015984;Surface water
+ECU;Ecuador;urban;Drinking water;2014;0.0116853;Unimproved
+ECU;Ecuador;urban;Drinking water;2015;0.2508484;Basic service
+ECU;Ecuador;urban;Drinking water;2015;0.0005781;Limited service
+ECU;Ecuador;urban;Drinking water;2015;0.740475;Safely managed service
+ECU;Ecuador;urban;Drinking water;2015;0.0014945;Surface water
+ECU;Ecuador;urban;Drinking water;2015;0.006604;Unimproved
+ECU;Ecuador;urban;Drinking water;2016;0.0252585;Basic service
+ECU;Ecuador;urban;Drinking water;2016;0.0001558;Limited service
+ECU;Ecuador;urban;Drinking water;2016;0.7443459;Safely managed service
+ECU;Ecuador;urban;Drinking water;2016;0.0013905;Surface water
+ECU;Ecuador;urban;Drinking water;2016;0.0015228;Unimproved
+ECU;Ecuador;urban;Drinking water;2017;0.2534793;Basic service
+ECU;Ecuador;urban;Drinking water;2017;0;Limited service
+ECU;Ecuador;urban;Drinking water;2017;0.7465207;Safely managed service
+ECU;Ecuador;urban;Drinking water;2017;0;Surface water
+ECU;Ecuador;urban;Drinking water;2017;0;Unimproved
+ECU;Ecuador;urban;Drinking water;2018;0.2534793;Basic service
+ECU;Ecuador;urban;Drinking water;2018;0;Limited service
+ECU;Ecuador;urban;Drinking water;2018;0.7465207;Safely managed service
+ECU;Ecuador;urban;Drinking water;2018;0;Surface water
+ECU;Ecuador;urban;Drinking water;2018;0;Unimproved
+ECU;Ecuador;urban;Drinking water;2019;0.2534793;Basic service
+ECU;Ecuador;urban;Drinking water;2019;0;Limited service
+ECU;Ecuador;urban;Drinking water;2019;0.7465207;Safely managed service
+ECU;Ecuador;urban;Drinking water;2019;0;Surface water
+ECU;Ecuador;urban;Drinking water;2019;0;Unimproved
+ECU;Ecuador;urban;Drinking water;2020;0.2534793;Basic service
+ECU;Ecuador;urban;Drinking water;2020;0;Limited service
+ECU;Ecuador;urban;Drinking water;2020;0.7465207;Safely managed service
+ECU;Ecuador;urban;Drinking water;2020;0;Surface water
+ECU;Ecuador;urban;Drinking water;2020;0;Unimproved
+ECU;Ecuador;urban;Drinking water;2021;0.2534793;Basic service
+ECU;Ecuador;urban;Drinking water;2021;0;Limited service
+ECU;Ecuador;urban;Drinking water;2021;0.7465207;Safely managed service
+ECU;Ecuador;urban;Drinking water;2021;0;Surface water
+ECU;Ecuador;urban;Drinking water;2021;0;Unimproved
+ECU;Ecuador;urban;Drinking water;2022;0.2534793;Basic service
+ECU;Ecuador;urban;Drinking water;2022;0;Limited service
+ECU;Ecuador;urban;Drinking water;2022;0.7465207;Safely managed service
+ECU;Ecuador;urban;Drinking water;2022;0;Surface water
+ECU;Ecuador;urban;Drinking water;2022;0;Unimproved
+GTM;Guatemala;urban;Drinking water;2000;0.3961295;Basic service
+GTM;Guatemala;urban;Drinking water;2000;0.003537;Limited service
+GTM;Guatemala;urban;Drinking water;2000;0.5562748;Safely managed service
+GTM;Guatemala;urban;Drinking water;2000;0.0035673;Surface water
+GTM;Guatemala;urban;Drinking water;2000;0.0404915;Unimproved
+GTM;Guatemala;urban;Drinking water;2001;0.3914924;Basic service
+GTM;Guatemala;urban;Drinking water;2001;0.0034921;Limited service
+GTM;Guatemala;urban;Drinking water;2001;0.5620954;Safely managed service
+GTM;Guatemala;urban;Drinking water;2001;0.0034657;Surface water
+GTM;Guatemala;urban;Drinking water;2001;0.0394544;Unimproved
+GTM;Guatemala;urban;Drinking water;2002;0.3868431;Basic service
+GTM;Guatemala;urban;Drinking water;2002;0.0034471;Limited service
+GTM;Guatemala;urban;Drinking water;2002;0.5679282;Safely managed service
+GTM;Guatemala;urban;Drinking water;2002;0.0033641;Surface water
+GTM;Guatemala;urban;Drinking water;2002;0.0384174;Unimproved
+GTM;Guatemala;urban;Drinking water;2003;0.3821818;Basic service
+GTM;Guatemala;urban;Drinking water;2003;0.003402;Limited service
+GTM;Guatemala;urban;Drinking water;2003;0.5737734;Safely managed service
+GTM;Guatemala;urban;Drinking water;2003;0.0032626;Surface water
+GTM;Guatemala;urban;Drinking water;2003;0.0373803;Unimproved
+GTM;Guatemala;urban;Drinking water;2004;0.3775082;Basic service
+GTM;Guatemala;urban;Drinking water;2004;0.0033568;Limited service
+GTM;Guatemala;urban;Drinking water;2004;0.5796308;Safely managed service
+GTM;Guatemala;urban;Drinking water;2004;0.003161;Surface water
+GTM;Guatemala;urban;Drinking water;2004;0.0363432;Unimproved
+GTM;Guatemala;urban;Drinking water;2005;0.3728225;Basic service
+GTM;Guatemala;urban;Drinking water;2005;0.0033115;Limited service
+GTM;Guatemala;urban;Drinking water;2005;0.5855005;Safely managed service
+GTM;Guatemala;urban;Drinking water;2005;0.0030594;Surface water
+GTM;Guatemala;urban;Drinking water;2005;0.0353062;Unimproved
+GTM;Guatemala;urban;Drinking water;2006;0.3681247;Basic service
+GTM;Guatemala;urban;Drinking water;2006;0.003266;Limited service
+GTM;Guatemala;urban;Drinking water;2006;0.5913824;Safely managed service
+GTM;Guatemala;urban;Drinking water;2006;0.0029578;Surface water
+GTM;Guatemala;urban;Drinking water;2006;0.0342691;Unimproved
+GTM;Guatemala;urban;Drinking water;2007;0.3634146;Basic service
+GTM;Guatemala;urban;Drinking water;2007;0.0032204;Limited service
+GTM;Guatemala;urban;Drinking water;2007;0.5972767;Safely managed service
+GTM;Guatemala;urban;Drinking water;2007;0.0028562;Surface water
+GTM;Guatemala;urban;Drinking water;2007;0.33232;Unimproved
+GTM;Guatemala;urban;Drinking water;2008;0.3586924;Basic service
+GTM;Guatemala;urban;Drinking water;2008;0.0031748;Limited service
+GTM;Guatemala;urban;Drinking water;2008;0.6031832;Safely managed service
+GTM;Guatemala;urban;Drinking water;2008;0.0027547;Surface water
+GTM;Guatemala;urban;Drinking water;2008;0.0321949;Unimproved
+GTM;Guatemala;urban;Drinking water;2009;0.3539581;Basic service
+GTM;Guatemala;urban;Drinking water;2009;0.003129;Limited service
+GTM;Guatemala;urban;Drinking water;2009;0.609102;Safely managed service
+GTM;Guatemala;urban;Drinking water;2009;0.0026531;Surface water
+GTM;Guatemala;urban;Drinking water;2009;0.0311579;Unimproved
+GTM;Guatemala;urban;Drinking water;2010;0.3492116;Basic service
+GTM;Guatemala;urban;Drinking water;2010;0.003083;Limited service
+GTM;Guatemala;urban;Drinking water;2010;0.615033;Safely managed service
+GTM;Guatemala;urban;Drinking water;2010;0.0025515;Surface water
+GTM;Guatemala;urban;Drinking water;2010;0.0301208;Unimproved
+GTM;Guatemala;urban;Drinking water;2011;0.0344453;Basic service
+GTM;Guatemala;urban;Drinking water;2011;0.003037;Limited service
+GTM;Guatemala;urban;Drinking water;2011;0.6209763;Safely managed service
+GTM;Guatemala;urban;Drinking water;2011;0.0024499;Surface water
+GTM;Guatemala;urban;Drinking water;2011;0.0290837;Unimproved
+GTM;Guatemala;urban;Drinking water;2012;0.3396822;Basic service
+GTM;Guatemala;urban;Drinking water;2012;0.0029908;Limited service
+GTM;Guatemala;urban;Drinking water;2012;0.6269319;Safely managed service
+GTM;Guatemala;urban;Drinking water;2012;0.0023484;Surface water
+GTM;Guatemala;urban;Drinking water;2012;0.0280467;Unimproved
+GTM;Guatemala;urban;Drinking water;2013;0.3348992;Basic service
+GTM;Guatemala;urban;Drinking water;2013;0.0029446;Limited service
+GTM;Guatemala;urban;Drinking water;2013;0.6328998;Safely managed service
+GTM;Guatemala;urban;Drinking water;2013;0.0022468;Surface water
+GTM;Guatemala;urban;Drinking water;2013;0.0270096;Unimproved
+GTM;Guatemala;urban;Drinking water;2014;0.3301041;Basic service
+GTM;Guatemala;urban;Drinking water;2014;0.0028982;Limited service
+GTM;Guatemala;urban;Drinking water;2014;0.6388799;Safely managed service
+GTM;Guatemala;urban;Drinking water;2014;0.0021452;Surface water
+GTM;Guatemala;urban;Drinking water;2014;0.0259725;Unimproved
+GTM;Guatemala;urban;Drinking water;2015;0.3252969;Basic service
+GTM;Guatemala;urban;Drinking water;2015;0.0028517;Limited service
+GTM;Guatemala;urban;Drinking water;2015;0.6448724;Safely managed service
+GTM;Guatemala;urban;Drinking water;2015;0.0020436;Surface water
+GTM;Guatemala;urban;Drinking water;2015;0.0249355;Unimproved
+GTM;Guatemala;urban;Drinking water;2016;0.3204774;Basic service
+GTM;Guatemala;urban;Drinking water;2016;0.0028051;Limited service
+GTM;Guatemala;urban;Drinking water;2016;0.650877;Safely managed service
+GTM;Guatemala;urban;Drinking water;2016;0.0019421;Surface water
+GTM;Guatemala;urban;Drinking water;2016;0.0238984;Unimproved
+GTM;Guatemala;urban;Drinking water;2017;0.0320902;Basic service
+GTM;Guatemala;urban;Drinking water;2017;0.0027583;Limited service
+GTM;Guatemala;urban;Drinking water;2017;0.6516378;Safely managed service
+GTM;Guatemala;urban;Drinking water;2017;0.0018405;Surface water
+GTM;Guatemala;urban;Drinking water;2017;0.0228613;Unimproved
+GTM;Guatemala;urban;Drinking water;2018;0.3212767;Basic service
+GTM;Guatemala;urban;Drinking water;2018;0.0027616;Limited service
+GTM;Guatemala;urban;Drinking water;2018;0.6523986;Safely managed service
+GTM;Guatemala;urban;Drinking water;2018;0.0017389;Surface water
+GTM;Guatemala;urban;Drinking water;2018;0.0218243;Unimproved
+GTM;Guatemala;urban;Drinking water;2019;0.3216513;Basic service
+GTM;Guatemala;urban;Drinking water;2019;0.0027648;Limited service
+GTM;Guatemala;urban;Drinking water;2019;0.6531594;Safely managed service
+GTM;Guatemala;urban;Drinking water;2019;0.0016373;Surface water
+GTM;Guatemala;urban;Drinking water;2019;0.0207872;Unimproved
+GTM;Guatemala;urban;Drinking water;2020;0.0322026;Basic service
+GTM;Guatemala;urban;Drinking water;2020;0.002768;Limited service
+GTM;Guatemala;urban;Drinking water;2020;0.6539202;Safely managed service
+GTM;Guatemala;urban;Drinking water;2020;0.0015358;Surface water
+GTM;Guatemala;urban;Drinking water;2020;0.0197501;Unimproved
+GTM;Guatemala;urban;Drinking water;2021;0.3224006;Basic service
+GTM;Guatemala;urban;Drinking water;2021;0.0027712;Limited service
+GTM;Guatemala;urban;Drinking water;2021;0.6546809;Safely managed service
+GTM;Guatemala;urban;Drinking water;2021;0.0014342;Surface water
+GTM;Guatemala;urban;Drinking water;2021;0.0187131;Unimproved
+GTM;Guatemala;urban;Drinking water;2022;0.3227753;Basic service
+GTM;Guatemala;urban;Drinking water;2022;0.0027744;Limited service
+GTM;Guatemala;urban;Drinking water;2022;0.6554417;Safely managed service
+GTM;Guatemala;urban;Drinking water;2022;0.0013326;Surface water
+GTM;Guatemala;urban;Drinking water;2022;0.17676;Unimproved
+HND;Honduras;urban;Drinking water;2000;0.0499275;Basic service
+HND;Honduras;urban;Drinking water;2000;0.0012552;Limited service
+HND;Honduras;urban;Drinking water;2000;0.0458841;Safely managed service
+HND;Honduras;urban;Drinking water;2000;0.0005393;Surface water
+HND;Honduras;urban;Drinking water;2000;0.0400895;Unimproved
+HND;Honduras;urban;Drinking water;2001;0.5002644;Basic service
+HND;Honduras;urban;Drinking water;2001;0.0012577;Limited service
+HND;Honduras;urban;Drinking water;2001;0.4597503;Safely managed service
+HND;Honduras;urban;Drinking water;2001;0.0005302;Surface water
+HND;Honduras;urban;Drinking water;2001;0.0381973;Unimproved
+HND;Honduras;urban;Drinking water;2002;0.5012539;Basic service
+HND;Honduras;urban;Drinking water;2002;0.0012602;Limited service
+HND;Honduras;urban;Drinking water;2002;0.4606596;Safely managed service
+HND;Honduras;urban;Drinking water;2002;0.0005212;Surface water
+HND;Honduras;urban;Drinking water;2002;0.0363051;Unimproved
+HND;Honduras;urban;Drinking water;2003;0.4786909;Basic service
+HND;Honduras;urban;Drinking water;2003;0.0015942;Limited service
+HND;Honduras;urban;Drinking water;2003;0.4847898;Safely managed service
+HND;Honduras;urban;Drinking water;2003;0.0005122;Surface water
+HND;Honduras;urban;Drinking water;2003;0.0344128;Unimproved
+HND;Honduras;urban;Drinking water;2004;0.4560352;Basic service
+HND;Honduras;urban;Drinking water;2004;0.0019295;Limited service
+HND;Honduras;urban;Drinking water;2004;0.5090115;Safely managed service
+HND;Honduras;urban;Drinking water;2004;0.0005032;Surface water
+HND;Honduras;urban;Drinking water;2004;0.0325206;Unimproved
+HND;Honduras;urban;Drinking water;2005;0.4332867;Basic service
+HND;Honduras;urban;Drinking water;2005;0.0022661;Limited service
+HND;Honduras;urban;Drinking water;2005;0.5333246;Safely managed service
+HND;Honduras;urban;Drinking water;2005;0.0004942;Surface water
+HND;Honduras;urban;Drinking water;2005;0.0306284;Unimproved
+HND;Honduras;urban;Drinking water;2006;0.4104453;Basic service
+HND;Honduras;urban;Drinking water;2006;0.0026041;Limited service
+HND;Honduras;urban;Drinking water;2006;0.5577293;Safely managed service
+HND;Honduras;urban;Drinking water;2006;0.0004852;Surface water
+HND;Honduras;urban;Drinking water;2006;0.0287362;Unimproved
+HND;Honduras;urban;Drinking water;2007;0.3875112;Basic service
+HND;Honduras;urban;Drinking water;2007;0.0029433;Limited service
+HND;Honduras;urban;Drinking water;2007;0.5822254;Safely managed service
+HND;Honduras;urban;Drinking water;2007;0.0004761;Surface water
+HND;Honduras;urban;Drinking water;2007;0.26844;Unimproved
+HND;Honduras;urban;Drinking water;2008;0.3644843;Basic service
+HND;Honduras;urban;Drinking water;2008;0.0032838;Limited service
+HND;Honduras;urban;Drinking water;2008;0.606813;Safely managed service
+HND;Honduras;urban;Drinking water;2008;0.0004671;Surface water
+HND;Honduras;urban;Drinking water;2008;0.0249518;Unimproved
+HND;Honduras;urban;Drinking water;2009;0.3413645;Basic service
+HND;Honduras;urban;Drinking water;2009;0.0036256;Limited service
+HND;Honduras;urban;Drinking water;2009;0.6314922;Safely managed service
+HND;Honduras;urban;Drinking water;2009;0.0004581;Surface water
+HND;Honduras;urban;Drinking water;2009;0.0230596;Unimproved
+HND;Honduras;urban;Drinking water;2010;0.0318152;Basic service
+HND;Honduras;urban;Drinking water;2010;0.0039688;Limited service
+HND;Honduras;urban;Drinking water;2010;0.6562628;Safely managed service
+HND;Honduras;urban;Drinking water;2010;0.0004491;Surface water
+HND;Honduras;urban;Drinking water;2010;0.0211673;Unimproved
+HND;Honduras;urban;Drinking water;2011;0.2948467;Basic service
+HND;Honduras;urban;Drinking water;2011;0.0043132;Limited service
+HND;Honduras;urban;Drinking water;2011;0.6811249;Safely managed service
+HND;Honduras;urban;Drinking water;2011;0.0004401;Surface water
+HND;Honduras;urban;Drinking water;2011;0.0192751;Unimproved
+HND;Honduras;urban;Drinking water;2012;0.2714486;Basic service
+HND;Honduras;urban;Drinking water;2012;0.004659;Limited service
+HND;Honduras;urban;Drinking water;2012;0.7060785;Safely managed service
+HND;Honduras;urban;Drinking water;2012;0.000431;Surface water
+HND;Honduras;urban;Drinking water;2012;0.0173829;Unimproved
+HND;Honduras;urban;Drinking water;2013;0.2479576;Basic service
+HND;Honduras;urban;Drinking water;2013;0.005006;Limited service
+HND;Honduras;urban;Drinking water;2013;0.7311236;Safely managed service
+HND;Honduras;urban;Drinking water;2013;0.000422;Surface water
+HND;Honduras;urban;Drinking water;2013;0.0154907;Unimproved
+HND;Honduras;urban;Drinking water;2014;0.2243739;Basic service
+HND;Honduras;urban;Drinking water;2014;0.0053544;Limited service
+HND;Honduras;urban;Drinking water;2014;0.7562602;Safely managed service
+HND;Honduras;urban;Drinking water;2014;0.000413;Surface water
+HND;Honduras;urban;Drinking water;2014;0.0135985;Unimproved
+HND;Honduras;urban;Drinking water;2015;0.2073296;Basic service
+HND;Honduras;urban;Drinking water;2015;0.0057041;Limited service
+HND;Honduras;urban;Drinking water;2015;0.7748561;Safely managed service
+HND;Honduras;urban;Drinking water;2015;0.000404;Surface water
+HND;Honduras;urban;Drinking water;2015;0.0117063;Unimproved
+HND;Honduras;urban;Drinking water;2016;0.2073886;Basic service
+HND;Honduras;urban;Drinking water;2016;0.0060551;Limited service
+HND;Honduras;urban;Drinking water;2016;0.7763473;Safely managed service
+HND;Honduras;urban;Drinking water;2016;0.000395;Surface water
+HND;Honduras;urban;Drinking water;2016;0.0098141;Unimproved
+HND;Honduras;urban;Drinking water;2017;0.2074463;Basic service
+HND;Honduras;urban;Drinking water;2017;0.0064074;Limited service
+HND;Honduras;urban;Drinking water;2017;0.7778385;Safely managed service
+HND;Honduras;urban;Drinking water;2017;0.000386;Surface water
+HND;Honduras;urban;Drinking water;2017;0.0079218;Unimproved
+HND;Honduras;urban;Drinking water;2018;0.2075027;Basic service
+HND;Honduras;urban;Drinking water;2018;0.0067609;Limited service
+HND;Honduras;urban;Drinking water;2018;0.7793298;Safely managed service
+HND;Honduras;urban;Drinking water;2018;0.0003769;Surface water
+HND;Honduras;urban;Drinking water;2018;0.0060296;Unimproved
+HND;Honduras;urban;Drinking water;2019;0.2075578;Basic service
+HND;Honduras;urban;Drinking water;2019;0.0071158;Limited service
+HND;Honduras;urban;Drinking water;2019;0.780821;Safely managed service
+HND;Honduras;urban;Drinking water;2019;0.0003679;Surface water
+HND;Honduras;urban;Drinking water;2019;0.0041374;Unimproved
+HND;Honduras;urban;Drinking water;2020;0.2076116;Basic service
+HND;Honduras;urban;Drinking water;2020;0.007472;Limited service
+HND;Honduras;urban;Drinking water;2020;0.7823123;Safely managed service
+HND;Honduras;urban;Drinking water;2020;0.0003589;Surface water
+HND;Honduras;urban;Drinking water;2020;0.0022452;Unimproved
+HND;Honduras;urban;Drinking water;2021;0.2076641;Basic service
+HND;Honduras;urban;Drinking water;2021;0.0078296;Limited service
+HND;Honduras;urban;Drinking water;2021;0.7838035;Safely managed service
+HND;Honduras;urban;Drinking water;2021;0.0003499;Surface water
+HND;Honduras;urban;Drinking water;2021;0.000353;Unimproved
+HND;Honduras;urban;Drinking water;2022;0.2078101;Basic service
+HND;Honduras;urban;Drinking water;2022;0.0078351;Limited service
+HND;Honduras;urban;Drinking water;2022;0.7843548;Safely managed service
+HND;Honduras;urban;Drinking water;2022;0;Surface water
+HND;Honduras;urban;Drinking water;2022;0;Unimproved
+MEX;Mexico;urban;Drinking water;2000;0.9553436;At least basic
+MEX;Mexico;urban;Drinking water;2000;0.0027174;Limited service
+MEX;Mexico;urban;Drinking water;2000;0.0032506;Surface water
+MEX;Mexico;urban;Drinking water;2000;0.0386883;Unimproved
+MEX;Mexico;urban;Drinking water;2001;0.9578382;At least basic
+MEX;Mexico;urban;Drinking water;2001;0.0023797;Limited service
+MEX;Mexico;urban;Drinking water;2001;0.0032506;Surface water
+MEX;Mexico;urban;Drinking water;2001;0.0365314;Unimproved
+MEX;Mexico;urban;Drinking water;2002;0.9603343;At least basic
+MEX;Mexico;urban;Drinking water;2002;0.0020405;Limited service
+MEX;Mexico;urban;Drinking water;2002;0.0032506;Surface water
+MEX;Mexico;urban;Drinking water;2002;0.0343746;Unimproved
+MEX;Mexico;urban;Drinking water;2003;0.962832;At least basic
+MEX;Mexico;urban;Drinking water;2003;0.0016997;Limited service
+MEX;Mexico;urban;Drinking water;2003;0.0030673;Surface water
+MEX;Mexico;urban;Drinking water;2003;0.0324011;Unimproved
+MEX;Mexico;urban;Drinking water;2004;0.9653312;At least basic
+MEX;Mexico;urban;Drinking water;2004;0.0013574;Limited service
+MEX;Mexico;urban;Drinking water;2004;0.0028839;Surface water
+MEX;Mexico;urban;Drinking water;2004;0.0304276;Unimproved
+MEX;Mexico;urban;Drinking water;2005;0.9678319;At least basic
+MEX;Mexico;urban;Drinking water;2005;0.0010135;Limited service
+MEX;Mexico;urban;Drinking water;2005;0.0027006;Surface water
+MEX;Mexico;urban;Drinking water;2005;0.28454;Unimproved
+MEX;Mexico;urban;Drinking water;2006;0.9703342;At least basic
+MEX;Mexico;urban;Drinking water;2006;0.000668;Limited service
+MEX;Mexico;urban;Drinking water;2006;0.0025172;Surface water
+MEX;Mexico;urban;Drinking water;2006;0.0264805;Unimproved
+MEX;Mexico;urban;Drinking water;2007;0.972838;At least basic
+MEX;Mexico;urban;Drinking water;2007;0.0003211;Limited service
+MEX;Mexico;urban;Drinking water;2007;0.0023339;Surface water
+MEX;Mexico;urban;Drinking water;2007;0.24507;Unimproved
+MEX;Mexico;urban;Drinking water;2008;0.975316;At least basic
+MEX;Mexico;urban;Drinking water;2008;0;Limited service
+MEX;Mexico;urban;Drinking water;2008;0.0021505;Surface water
+MEX;Mexico;urban;Drinking water;2008;0.0225335;Unimproved
+MEX;Mexico;urban;Drinking water;2009;0.9774728;At least basic
+MEX;Mexico;urban;Drinking water;2009;0;Limited service
+MEX;Mexico;urban;Drinking water;2009;0.0019671;Surface water
+MEX;Mexico;urban;Drinking water;2009;0.02056;Unimproved
+MEX;Mexico;urban;Drinking water;2010;0.9796297;At least basic
+MEX;Mexico;urban;Drinking water;2010;0;Limited service
+MEX;Mexico;urban;Drinking water;2010;0.0017838;Surface water
+MEX;Mexico;urban;Drinking water;2010;0.0185865;Unimproved
+MEX;Mexico;urban;Drinking water;2011;0.9817866;At least basic
+MEX;Mexico;urban;Drinking water;2011;0;Limited service
+MEX;Mexico;urban;Drinking water;2011;0.0016004;Surface water
+MEX;Mexico;urban;Drinking water;2011;0.16613;Unimproved
+MEX;Mexico;urban;Drinking water;2012;0.9839434;At least basic
+MEX;Mexico;urban;Drinking water;2012;0;Limited service
+MEX;Mexico;urban;Drinking water;2012;0.0014171;Surface water
+MEX;Mexico;urban;Drinking water;2012;0.0146395;Unimproved
+MEX;Mexico;urban;Drinking water;2013;0.9861003;At least basic
+MEX;Mexico;urban;Drinking water;2013;0;Limited service
+MEX;Mexico;urban;Drinking water;2013;0.0012337;Surface water
+MEX;Mexico;urban;Drinking water;2013;0.12666;Unimproved
+MEX;Mexico;urban;Drinking water;2014;0.9882572;At least basic
+MEX;Mexico;urban;Drinking water;2014;0;Limited service
+MEX;Mexico;urban;Drinking water;2014;0.0010504;Surface water
+MEX;Mexico;urban;Drinking water;2014;0.0106924;Unimproved
+MEX;Mexico;urban;Drinking water;2015;0.990414;At least basic
+MEX;Mexico;urban;Drinking water;2015;0;Limited service
+MEX;Mexico;urban;Drinking water;2015;0.000867;Surface water
+MEX;Mexico;urban;Drinking water;2015;0.0087189;Unimproved
+MEX;Mexico;urban;Drinking water;2016;0.9925709;At least basic
+MEX;Mexico;urban;Drinking water;2016;0;Limited service
+MEX;Mexico;urban;Drinking water;2016;0.0006837;Surface water
+MEX;Mexico;urban;Drinking water;2016;0.0067454;Unimproved
+MEX;Mexico;urban;Drinking water;2017;0.9947278;At least basic
+MEX;Mexico;urban;Drinking water;2017;0;Limited service
+MEX;Mexico;urban;Drinking water;2017;0.0005003;Surface water
+MEX;Mexico;urban;Drinking water;2017;0.0047719;Unimproved
+MEX;Mexico;urban;Drinking water;2018;0.9968846;At least basic
+MEX;Mexico;urban;Drinking water;2018;0;Limited service
+MEX;Mexico;urban;Drinking water;2018;0.000317;Surface water
+MEX;Mexico;urban;Drinking water;2018;0.0027984;Unimproved
+MEX;Mexico;urban;Drinking water;2019;0.9990415;At least basic
+MEX;Mexico;urban;Drinking water;2019;0;Limited service
+MEX;Mexico;urban;Drinking water;2019;0.0001336;Surface water
+MEX;Mexico;urban;Drinking water;2019;0.0008249;Unimproved
+MEX;Mexico;urban;Drinking water;2020;1;At least basic
+MEX;Mexico;urban;Drinking water;2020;0;Limited service
+MEX;Mexico;urban;Drinking water;2020;0;Surface water
+MEX;Mexico;urban;Drinking water;2020;0;Unimproved
+MEX;Mexico;urban;Drinking water;2021;1;At least basic
+MEX;Mexico;urban;Drinking water;2021;0;Limited service
+MEX;Mexico;urban;Drinking water;2021;0;Surface water
+MEX;Mexico;urban;Drinking water;2021;0;Unimproved
+MEX;Mexico;urban;Drinking water;2022;1;At least basic
+MEX;Mexico;urban;Drinking water;2022;0;Limited service
+MEX;Mexico;urban;Drinking water;2022;0;Surface water
+MEX;Mexico;urban;Drinking water;2022;0;Unimproved
+NIC;Nicaragua;urban;Drinking water;2000;0.2918917;Basic service
+NIC;Nicaragua;urban;Drinking water;2000;0.0020578;Limited service
+NIC;Nicaragua;urban;Drinking water;2000;0.6548944;Safely managed service
+NIC;Nicaragua;urban;Drinking water;2000;0.0037003;Surface water
+NIC;Nicaragua;urban;Drinking water;2000;0.0474559;Unimproved
+NIC;Nicaragua;urban;Drinking water;2001;0.2924697;Basic service
+NIC;Nicaragua;urban;Drinking water;2001;0.001989;Limited service
+NIC;Nicaragua;urban;Drinking water;2001;0.6560289;Safely managed service
+NIC;Nicaragua;urban;Drinking water;2001;0.0036199;Surface water
+NIC;Nicaragua;urban;Drinking water;2001;0.0458924;Unimproved
+NIC;Nicaragua;urban;Drinking water;2002;0.0293048;Basic service
+NIC;Nicaragua;urban;Drinking water;2002;0.00192;Limited service
+NIC;Nicaragua;urban;Drinking water;2002;0.6571635;Safely managed service
+NIC;Nicaragua;urban;Drinking water;2002;0.0035396;Surface water
+NIC;Nicaragua;urban;Drinking water;2002;0.0443289;Unimproved
+NIC;Nicaragua;urban;Drinking water;2003;0.2936265;Basic service
+NIC;Nicaragua;urban;Drinking water;2003;0.0018507;Limited service
+NIC;Nicaragua;urban;Drinking water;2003;0.6582981;Safely managed service
+NIC;Nicaragua;urban;Drinking water;2003;0.0034593;Surface water
+NIC;Nicaragua;urban;Drinking water;2003;0.0427654;Unimproved
+NIC;Nicaragua;urban;Drinking water;2004;0.2942053;Basic service
+NIC;Nicaragua;urban;Drinking water;2004;0.0017811;Limited service
+NIC;Nicaragua;urban;Drinking water;2004;0.6594327;Safely managed service
+NIC;Nicaragua;urban;Drinking water;2004;0.0033789;Surface water
+NIC;Nicaragua;urban;Drinking water;2004;0.41202;Unimproved
+NIC;Nicaragua;urban;Drinking water;2005;0.2947844;Basic service
+NIC;Nicaragua;urban;Drinking water;2005;0.0017113;Limited service
+NIC;Nicaragua;urban;Drinking water;2005;0.6605672;Safely managed service
+NIC;Nicaragua;urban;Drinking water;2005;0.0032986;Surface water
+NIC;Nicaragua;urban;Drinking water;2005;0.0396385;Unimproved
+NIC;Nicaragua;urban;Drinking water;2006;0.2953637;Basic service
+NIC;Nicaragua;urban;Drinking water;2006;0.0016413;Limited service
+NIC;Nicaragua;urban;Drinking water;2006;0.6617018;Safely managed service
+NIC;Nicaragua;urban;Drinking water;2006;0.0032182;Surface water
+NIC;Nicaragua;urban;Drinking water;2006;0.38075;Unimproved
+NIC;Nicaragua;urban;Drinking water;2007;0.2959432;Basic service
+NIC;Nicaragua;urban;Drinking water;2007;0.001571;Limited service
+NIC;Nicaragua;urban;Drinking water;2007;0.6628364;Safely managed service
+NIC;Nicaragua;urban;Drinking water;2007;0.0031379;Surface water
+NIC;Nicaragua;urban;Drinking water;2007;0.0365115;Unimproved
+NIC;Nicaragua;urban;Drinking water;2008;0.0296523;Basic service
+NIC;Nicaragua;urban;Drinking water;2008;0.0015004;Limited service
+NIC;Nicaragua;urban;Drinking water;2008;0.663971;Safely managed service
+NIC;Nicaragua;urban;Drinking water;2008;0.0030576;Surface water
+NIC;Nicaragua;urban;Drinking water;2008;0.34948;Unimproved
+NIC;Nicaragua;urban;Drinking water;2009;0.2971031;Basic service
+NIC;Nicaragua;urban;Drinking water;2009;0.0014296;Limited service
+NIC;Nicaragua;urban;Drinking water;2009;0.6651055;Safely managed service
+NIC;Nicaragua;urban;Drinking water;2009;0.0029772;Surface water
+NIC;Nicaragua;urban;Drinking water;2009;0.0333845;Unimproved
+NIC;Nicaragua;urban;Drinking water;2010;0.2976834;Basic service
+NIC;Nicaragua;urban;Drinking water;2010;0.0013586;Limited service
+NIC;Nicaragua;urban;Drinking water;2010;0.6662401;Safely managed service
+NIC;Nicaragua;urban;Drinking water;2010;0.0028969;Surface water
+NIC;Nicaragua;urban;Drinking water;2010;0.31821;Unimproved
+NIC;Nicaragua;urban;Drinking water;2011;0.0298264;Basic service
+NIC;Nicaragua;urban;Drinking water;2011;0.0012873;Limited service
+NIC;Nicaragua;urban;Drinking water;2011;0.6673747;Safely managed service
+NIC;Nicaragua;urban;Drinking water;2011;0.0028165;Surface water
+NIC;Nicaragua;urban;Drinking water;2011;0.0302575;Unimproved
+NIC;Nicaragua;urban;Drinking water;2012;0.2988448;Basic service
+NIC;Nicaragua;urban;Drinking water;2012;0.0012157;Limited service
+NIC;Nicaragua;urban;Drinking water;2012;0.6685093;Safely managed service
+NIC;Nicaragua;urban;Drinking water;2012;0.0027362;Surface water
+NIC;Nicaragua;urban;Drinking water;2012;0.28694;Unimproved
+NIC;Nicaragua;urban;Drinking water;2013;0.2994258;Basic service
+NIC;Nicaragua;urban;Drinking water;2013;0.0011439;Limited service
+NIC;Nicaragua;urban;Drinking water;2013;0.6696439;Safely managed service
+NIC;Nicaragua;urban;Drinking water;2013;0.0026559;Surface water
+NIC;Nicaragua;urban;Drinking water;2013;0.0271305;Unimproved
+NIC;Nicaragua;urban;Drinking water;2014;0.3000071;Basic service
+NIC;Nicaragua;urban;Drinking water;2014;0.0010719;Limited service
+NIC;Nicaragua;urban;Drinking water;2014;0.6707784;Safely managed service
+NIC;Nicaragua;urban;Drinking water;2014;0.0025755;Surface water
+NIC;Nicaragua;urban;Drinking water;2014;0.0255671;Unimproved
+NIC;Nicaragua;urban;Drinking water;2015;0.3005145;Basic service
+NIC;Nicaragua;urban;Drinking water;2015;0.0010737;Limited service
+NIC;Nicaragua;urban;Drinking water;2015;0.671913;Safely managed service
+NIC;Nicaragua;urban;Drinking water;2015;0.0024952;Surface water
+NIC;Nicaragua;urban;Drinking water;2015;0.0240036;Unimproved
+NIC;Nicaragua;urban;Drinking water;2016;0.0301022;Basic service
+NIC;Nicaragua;urban;Drinking water;2016;0.0010755;Limited service
+NIC;Nicaragua;urban;Drinking water;2016;0.6730476;Safely managed service
+NIC;Nicaragua;urban;Drinking water;2016;0.0024148;Surface water
+NIC;Nicaragua;urban;Drinking water;2016;0.0224401;Unimproved
+NIC;Nicaragua;urban;Drinking water;2017;0.0301022;Basic service
+NIC;Nicaragua;urban;Drinking water;2017;0.0010755;Limited service
+NIC;Nicaragua;urban;Drinking water;2017;0.6730476;Safely managed service
+NIC;Nicaragua;urban;Drinking water;2017;0.0024148;Surface water
+NIC;Nicaragua;urban;Drinking water;2017;0.0224401;Unimproved
+NIC;Nicaragua;urban;Drinking water;2018;0.0301022;Basic service
+NIC;Nicaragua;urban;Drinking water;2018;0.0010755;Limited service
+NIC;Nicaragua;urban;Drinking water;2018;0.6730476;Safely managed service
+NIC;Nicaragua;urban;Drinking water;2018;0.0024148;Surface water
+NIC;Nicaragua;urban;Drinking water;2018;0.0224401;Unimproved
+NIC;Nicaragua;urban;Drinking water;2019;0.0301022;Basic service
+NIC;Nicaragua;urban;Drinking water;2019;0.0010755;Limited service
+NIC;Nicaragua;urban;Drinking water;2019;0.6730476;Safely managed service
+NIC;Nicaragua;urban;Drinking water;2019;0.0024148;Surface water
+NIC;Nicaragua;urban;Drinking water;2019;0.0224401;Unimproved
+NIC;Nicaragua;urban;Drinking water;2020;0.0301022;Basic service
+NIC;Nicaragua;urban;Drinking water;2020;0.0010755;Limited service
+NIC;Nicaragua;urban;Drinking water;2020;0.6730476;Safely managed service
+NIC;Nicaragua;urban;Drinking water;2020;0.0024148;Surface water
+NIC;Nicaragua;urban;Drinking water;2020;0.0224401;Unimproved
+PAN;Panama;urban;Drinking water;2000;0.9699059;At least basic
+PAN;Panama;urban;Drinking water;2000;0;Limited service
+PAN;Panama;urban;Drinking water;2000;0.0018792;Surface water
+PAN;Panama;urban;Drinking water;2000;0.0282149;Unimproved
+PAN;Panama;urban;Drinking water;2001;0.9715192;At least basic
+PAN;Panama;urban;Drinking water;2001;0;Limited service
+PAN;Panama;urban;Drinking water;2001;0.0017777;Surface water
+PAN;Panama;urban;Drinking water;2001;0.0267032;Unimproved
+PAN;Panama;urban;Drinking water;2002;0.9731324;At least basic
+PAN;Panama;urban;Drinking water;2002;0;Limited service
+PAN;Panama;urban;Drinking water;2002;0.0016762;Surface water
+PAN;Panama;urban;Drinking water;2002;0.0251914;Unimproved
+PAN;Panama;urban;Drinking water;2003;0.9747457;At least basic
+PAN;Panama;urban;Drinking water;2003;0;Limited service
+PAN;Panama;urban;Drinking water;2003;0.0015747;Surface water
+PAN;Panama;urban;Drinking water;2003;0.0236796;Unimproved
+PAN;Panama;urban;Drinking water;2004;0.9752345;At least basic
+PAN;Panama;urban;Drinking water;2004;0.0011246;Limited service
+PAN;Panama;urban;Drinking water;2004;0.0014732;Surface water
+PAN;Panama;urban;Drinking water;2004;0.0221678;Unimproved
+PAN;Panama;urban;Drinking water;2005;0.9756008;At least basic
+PAN;Panama;urban;Drinking water;2005;0.0023715;Limited service
+PAN;Panama;urban;Drinking water;2005;0.0013717;Surface water
+PAN;Panama;urban;Drinking water;2005;0.20656;Unimproved
+PAN;Panama;urban;Drinking water;2006;0.975963;At least basic
+PAN;Panama;urban;Drinking water;2006;0.0036225;Limited service
+PAN;Panama;urban;Drinking water;2006;0.0012702;Surface water
+PAN;Panama;urban;Drinking water;2006;0.0191442;Unimproved
+PAN;Panama;urban;Drinking water;2007;0.9763212;At least basic
+PAN;Panama;urban;Drinking water;2007;0.0048777;Limited service
+PAN;Panama;urban;Drinking water;2007;0.0011687;Surface water
+PAN;Panama;urban;Drinking water;2007;0.0176324;Unimproved
+PAN;Panama;urban;Drinking water;2008;0.9766752;At least basic
+PAN;Panama;urban;Drinking water;2008;0.006137;Limited service
+PAN;Panama;urban;Drinking water;2008;0.0010672;Surface water
+PAN;Panama;urban;Drinking water;2008;0.0161207;Unimproved
+PAN;Panama;urban;Drinking water;2009;0.9770251;At least basic
+PAN;Panama;urban;Drinking water;2009;0.0074003;Limited service
+PAN;Panama;urban;Drinking water;2009;0.0009657;Surface water
+PAN;Panama;urban;Drinking water;2009;0.0146089;Unimproved
+PAN;Panama;urban;Drinking water;2010;0.9773709;At least basic
+PAN;Panama;urban;Drinking water;2010;0.0086678;Limited service
+PAN;Panama;urban;Drinking water;2010;0.0008642;Surface water
+PAN;Panama;urban;Drinking water;2010;0.0130971;Unimproved
+PAN;Panama;urban;Drinking water;2011;0.9777126;At least basic
+PAN;Panama;urban;Drinking water;2011;0.0099394;Limited service
+PAN;Panama;urban;Drinking water;2011;0.0007627;Surface water
+PAN;Panama;urban;Drinking water;2011;0.0115853;Unimproved
+PAN;Panama;urban;Drinking water;2012;0.9780502;At least basic
+PAN;Panama;urban;Drinking water;2012;0.0112151;Limited service
+PAN;Panama;urban;Drinking water;2012;0.0006612;Surface water
+PAN;Panama;urban;Drinking water;2012;0.0100735;Unimproved
+PAN;Panama;urban;Drinking water;2013;0.9783837;At least basic
+PAN;Panama;urban;Drinking water;2013;0.0124949;Limited service
+PAN;Panama;urban;Drinking water;2013;0.0005597;Surface water
+PAN;Panama;urban;Drinking water;2013;0.0085617;Unimproved
+PAN;Panama;urban;Drinking water;2014;0.9787131;At least basic
+PAN;Panama;urban;Drinking water;2014;0.0137788;Limited service
+PAN;Panama;urban;Drinking water;2014;0.0004582;Surface water
+PAN;Panama;urban;Drinking water;2014;0.0070499;Unimproved
+PAN;Panama;urban;Drinking water;2015;0.9790383;At least basic
+PAN;Panama;urban;Drinking water;2015;0.0150669;Limited service
+PAN;Panama;urban;Drinking water;2015;0.0003567;Surface water
+PAN;Panama;urban;Drinking water;2015;0.0055381;Unimproved
+PAN;Panama;urban;Drinking water;2016;0.9806272;At least basic
+PAN;Panama;urban;Drinking water;2016;0.0150913;Limited service
+PAN;Panama;urban;Drinking water;2016;0.0002552;Surface water
+PAN;Panama;urban;Drinking water;2016;0.0040264;Unimproved
+PAN;Panama;urban;Drinking water;2017;0.982216;At least basic
+PAN;Panama;urban;Drinking water;2017;0.0151158;Limited service
+PAN;Panama;urban;Drinking water;2017;0.0001537;Surface water
+PAN;Panama;urban;Drinking water;2017;0.0025146;Unimproved
+PAN;Panama;urban;Drinking water;2018;0.9838048;At least basic
+PAN;Panama;urban;Drinking water;2018;0.0151402;Limited service
+PAN;Panama;urban;Drinking water;2018;0.0000522;Surface water
+PAN;Panama;urban;Drinking water;2018;0.0010028;Unimproved
+PAN;Panama;urban;Drinking water;2019;0.9848438;At least basic
+PAN;Panama;urban;Drinking water;2019;0.0151562;Limited service
+PAN;Panama;urban;Drinking water;2019;0;Surface water
+PAN;Panama;urban;Drinking water;2019;0;Unimproved
+PAN;Panama;urban;Drinking water;2020;0.9848438;At least basic
+PAN;Panama;urban;Drinking water;2020;0.0151562;Limited service
+PAN;Panama;urban;Drinking water;2020;0;Surface water
+PAN;Panama;urban;Drinking water;2020;0;Unimproved
+PAN;Panama;urban;Drinking water;2021;0.9848438;At least basic
+PAN;Panama;urban;Drinking water;2021;0.0151562;Limited service
+PAN;Panama;urban;Drinking water;2021;0;Surface water
+PAN;Panama;urban;Drinking water;2021;0;Unimproved
+PAN;Panama;urban;Drinking water;2022;0.9848438;At least basic
+PAN;Panama;urban;Drinking water;2022;0.0151562;Limited service
+PAN;Panama;urban;Drinking water;2022;0;Surface water
+PAN;Panama;urban;Drinking water;2022;0;Unimproved
+PER;Peru;urban;Drinking water;2000;0.3479551;Basic service
+PER;Peru;urban;Drinking water;2000;0.0113604;Limited service
+PER;Peru;urban;Drinking water;2000;0.5634222;Safely managed service
+PER;Peru;urban;Drinking water;2000;0.0084907;Surface water
+PER;Peru;urban;Drinking water;2000;0.687715;Unimproved
+PER;Peru;urban;Drinking water;2001;0.3492357;Basic service
+PER;Peru;urban;Drinking water;2001;0.11089;Limited service
+PER;Peru;urban;Drinking water;2001;0.5650045;Safely managed service
+PER;Peru;urban;Drinking water;2001;0.0081541;Surface water
+PER;Peru;urban;Drinking water;2001;0.665167;Unimproved
+PER;Peru;urban;Drinking water;2002;0.3505179;Basic service
+PER;Peru;urban;Drinking water;2002;0.0108158;Limited service
+PER;Peru;urban;Drinking water;2002;0.5665868;Safely managed service
+PER;Peru;urban;Drinking water;2002;0.0078175;Surface water
+PER;Peru;urban;Drinking water;2002;0.642619;Unimproved
+PER;Peru;urban;Drinking water;2003;0.3518019;Basic service
+PER;Peru;urban;Drinking water;2003;0.10541;Limited service
+PER;Peru;urban;Drinking water;2003;0.5681691;Safely managed service
+PER;Peru;urban;Drinking water;2003;0.0074808;Surface water
+PER;Peru;urban;Drinking water;2003;0.620072;Unimproved
+PER;Peru;urban;Drinking water;2004;0.3530875;Basic service
+PER;Peru;urban;Drinking water;2004;0.0102644;Limited service
+PER;Peru;urban;Drinking water;2004;0.5697515;Safely managed service
+PER;Peru;urban;Drinking water;2004;0.0071442;Surface water
+PER;Peru;urban;Drinking water;2004;0.0597524;Unimproved
+PER;Peru;urban;Drinking water;2005;0.3543749;Basic service
+PER;Peru;urban;Drinking water;2005;0.0099862;Limited service
+PER;Peru;urban;Drinking water;2005;0.5713338;Safely managed service
+PER;Peru;urban;Drinking water;2005;0.0068076;Surface water
+PER;Peru;urban;Drinking water;2005;0.0574976;Unimproved
+PER;Peru;urban;Drinking water;2006;0.3556639;Basic service
+PER;Peru;urban;Drinking water;2006;0.0097063;Limited service
+PER;Peru;urban;Drinking water;2006;0.5729161;Safely managed service
+PER;Peru;urban;Drinking water;2006;0.006471;Surface water
+PER;Peru;urban;Drinking water;2006;0.0552428;Unimproved
+PER;Peru;urban;Drinking water;2007;0.3569547;Basic service
+PER;Peru;urban;Drinking water;2007;0.0094246;Limited service
+PER;Peru;urban;Drinking water;2007;0.5744984;Safely managed service
+PER;Peru;urban;Drinking water;2007;0.0061344;Surface water
+PER;Peru;urban;Drinking water;2007;0.52988;Unimproved
+PER;Peru;urban;Drinking water;2008;0.3582471;Basic service
+PER;Peru;urban;Drinking water;2008;0.0091413;Limited service
+PER;Peru;urban;Drinking water;2008;0.5760807;Safely managed service
+PER;Peru;urban;Drinking water;2008;0.0057977;Surface water
+PER;Peru;urban;Drinking water;2008;0.0507332;Unimproved
+PER;Peru;urban;Drinking water;2009;0.3595412;Basic service
+PER;Peru;urban;Drinking water;2009;0.0088562;Limited service
+PER;Peru;urban;Drinking water;2009;0.0577663;Safely managed service
+PER;Peru;urban;Drinking water;2009;0.0054611;Surface water
+PER;Peru;urban;Drinking water;2009;0.0484784;Unimproved
+PER;Peru;urban;Drinking water;2010;0.3608371;Basic service
+PER;Peru;urban;Drinking water;2010;0.0085695;Limited service
+PER;Peru;urban;Drinking water;2010;0.5792453;Safely managed service
+PER;Peru;urban;Drinking water;2010;0.0051245;Surface water
+PER;Peru;urban;Drinking water;2010;0.0462236;Unimproved
+PER;Peru;urban;Drinking water;2011;0.3621346;Basic service
+PER;Peru;urban;Drinking water;2011;0.008281;Limited service
+PER;Peru;urban;Drinking water;2011;0.5808277;Safely managed service
+PER;Peru;urban;Drinking water;2011;0.0047879;Surface water
+PER;Peru;urban;Drinking water;2011;0.0439688;Unimproved
+PER;Peru;urban;Drinking water;2012;0.3634339;Basic service
+PER;Peru;urban;Drinking water;2012;0.0079909;Limited service
+PER;Peru;urban;Drinking water;2012;0.58241;Safely managed service
+PER;Peru;urban;Drinking water;2012;0.0044513;Surface water
+PER;Peru;urban;Drinking water;2012;0.41714;Unimproved
+PER;Peru;urban;Drinking water;2013;0.3647348;Basic service
+PER;Peru;urban;Drinking water;2013;0.0076991;Limited service
+PER;Peru;urban;Drinking water;2013;0.5839923;Safely managed service
+PER;Peru;urban;Drinking water;2013;0.0041147;Surface water
+PER;Peru;urban;Drinking water;2013;0.0394592;Unimproved
+PER;Peru;urban;Drinking water;2014;0.3660374;Basic service
+PER;Peru;urban;Drinking water;2014;0.0074055;Limited service
+PER;Peru;urban;Drinking water;2014;0.5855746;Safely managed service
+PER;Peru;urban;Drinking water;2014;0.003778;Surface water
+PER;Peru;urban;Drinking water;2014;0.0372044;Unimproved
+PER;Peru;urban;Drinking water;2015;0.3673418;Basic service
+PER;Peru;urban;Drinking water;2015;0.0071103;Limited service
+PER;Peru;urban;Drinking water;2015;0.5871569;Safely managed service
+PER;Peru;urban;Drinking water;2015;0.0034414;Surface water
+PER;Peru;urban;Drinking water;2015;0.0349496;Unimproved
+PER;Peru;urban;Drinking water;2016;0.3686478;Basic service
+PER;Peru;urban;Drinking water;2016;0.0068134;Limited service
+PER;Peru;urban;Drinking water;2016;0.5887392;Safely managed service
+PER;Peru;urban;Drinking water;2016;0.0031048;Surface water
+PER;Peru;urban;Drinking water;2016;0.0326948;Unimproved
+PER;Peru;urban;Drinking water;2017;0.3699556;Basic service
+PER;Peru;urban;Drinking water;2017;0.0065147;Limited service
+PER;Peru;urban;Drinking water;2017;0.5903215;Safely managed service
+PER;Peru;urban;Drinking water;2017;0.0027682;Surface water
+PER;Peru;urban;Drinking water;2017;0.03044;Unimproved
+PER;Peru;urban;Drinking water;2018;0.0371265;Basic service
+PER;Peru;urban;Drinking water;2018;0.0062144;Limited service
+PER;Peru;urban;Drinking water;2018;0.5919039;Safely managed service
+PER;Peru;urban;Drinking water;2018;0.0024316;Surface water
+PER;Peru;urban;Drinking water;2018;0.0281852;Unimproved
+PER;Peru;urban;Drinking water;2019;0.3725761;Basic service
+PER;Peru;urban;Drinking water;2019;0.0059124;Limited service
+PER;Peru;urban;Drinking water;2019;0.5934862;Safely managed service
+PER;Peru;urban;Drinking water;2019;0.0020949;Surface water
+PER;Peru;urban;Drinking water;2019;0.0259304;Unimproved
+PER;Peru;urban;Drinking water;2020;0.0373889;Basic service
+PER;Peru;urban;Drinking water;2020;0.0056086;Limited service
+PER;Peru;urban;Drinking water;2020;0.5950685;Safely managed service
+PER;Peru;urban;Drinking water;2020;0.0017583;Surface water
+PER;Peru;urban;Drinking water;2020;0.0236756;Unimproved
+PER;Peru;urban;Drinking water;2021;0.3752035;Basic service
+PER;Peru;urban;Drinking water;2021;0.0053032;Limited service
+PER;Peru;urban;Drinking water;2021;0.5966508;Safely managed service
+PER;Peru;urban;Drinking water;2021;0.0014217;Surface water
+PER;Peru;urban;Drinking water;2021;0.0214208;Unimproved
+PER;Peru;urban;Drinking water;2022;0.3765197;Basic service
+PER;Peru;urban;Drinking water;2022;0.0049961;Limited service
+PER;Peru;urban;Drinking water;2022;0.5982331;Safely managed service
+PER;Peru;urban;Drinking water;2022;0.0010851;Surface water
+PER;Peru;urban;Drinking water;2022;0.19166;Unimproved
+PRY;Paraguay;urban;Drinking water;2000;0.2609065;Basic service
+PRY;Paraguay;urban;Drinking water;2000;0;Limited service
+PRY;Paraguay;urban;Drinking water;2000;0.6778249;Safely managed service
+PRY;Paraguay;urban;Drinking water;2000;0.0021584;Surface water
+PRY;Paraguay;urban;Drinking water;2000;0.0591102;Unimproved
+PRY;Paraguay;urban;Drinking water;2001;0.2618465;Basic service
+PRY;Paraguay;urban;Drinking water;2001;0;Limited service
+PRY;Paraguay;urban;Drinking water;2001;0.6802668;Safely managed service
+PRY;Paraguay;urban;Drinking water;2001;0.0020221;Surface water
+PRY;Paraguay;urban;Drinking water;2001;0.0558647;Unimproved
+PRY;Paraguay;urban;Drinking water;2002;0.2627864;Basic service
+PRY;Paraguay;urban;Drinking water;2002;0;Limited service
+PRY;Paraguay;urban;Drinking water;2002;0.6827087;Safely managed service
+PRY;Paraguay;urban;Drinking water;2002;0.0018857;Surface water
+PRY;Paraguay;urban;Drinking water;2002;0.0526191;Unimproved
+PRY;Paraguay;urban;Drinking water;2003;0.2637264;Basic service
+PRY;Paraguay;urban;Drinking water;2003;0;Limited service
+PRY;Paraguay;urban;Drinking water;2003;0.6851507;Safely managed service
+PRY;Paraguay;urban;Drinking water;2003;0.0017494;Surface water
+PRY;Paraguay;urban;Drinking water;2003;0.0493735;Unimproved
+PRY;Paraguay;urban;Drinking water;2004;0.2645944;Basic service
+PRY;Paraguay;urban;Drinking water;2004;0.0000719;Limited service
+PRY;Paraguay;urban;Drinking water;2004;0.6875926;Safely managed service
+PRY;Paraguay;urban;Drinking water;2004;0.0016131;Surface water
+PRY;Paraguay;urban;Drinking water;2004;0.46128;Unimproved
+PRY;Paraguay;urban;Drinking water;2005;0.0265462;Basic service
+PRY;Paraguay;urban;Drinking water;2005;0.0001443;Limited service
+PRY;Paraguay;urban;Drinking water;2005;0.6900346;Safely managed service
+PRY;Paraguay;urban;Drinking water;2005;0.0014767;Surface water
+PRY;Paraguay;urban;Drinking water;2005;0.0428824;Unimproved
+PRY;Paraguay;urban;Drinking water;2006;0.0266329;Basic service
+PRY;Paraguay;urban;Drinking water;2006;0.0002172;Limited service
+PRY;Paraguay;urban;Drinking water;2006;0.6924765;Safely managed service
+PRY;Paraguay;urban;Drinking water;2006;0.0013404;Surface water
+PRY;Paraguay;urban;Drinking water;2006;0.0396369;Unimproved
+PRY;Paraguay;urban;Drinking water;2007;0.2671955;Basic service
+PRY;Paraguay;urban;Drinking water;2007;0.0002906;Limited service
+PRY;Paraguay;urban;Drinking water;2007;0.6949185;Safely managed service
+PRY;Paraguay;urban;Drinking water;2007;0.0012041;Surface water
+PRY;Paraguay;urban;Drinking water;2007;0.0363913;Unimproved
+PRY;Paraguay;urban;Drinking water;2008;0.2680615;Basic service
+PRY;Paraguay;urban;Drinking water;2008;0.0003646;Limited service
+PRY;Paraguay;urban;Drinking water;2008;0.6973604;Safely managed service
+PRY;Paraguay;urban;Drinking water;2008;0.0010677;Surface water
+PRY;Paraguay;urban;Drinking water;2008;0.0331458;Unimproved
+PRY;Paraguay;urban;Drinking water;2009;0.0268927;Basic service
+PRY;Paraguay;urban;Drinking water;2009;0.000439;Limited service
+PRY;Paraguay;urban;Drinking water;2009;0.6998024;Safely managed service
+PRY;Paraguay;urban;Drinking water;2009;0.0009314;Surface water
+PRY;Paraguay;urban;Drinking water;2009;0.0299002;Unimproved
+PRY;Paraguay;urban;Drinking water;2010;0.0269792;Basic service
+PRY;Paraguay;urban;Drinking water;2010;0.000514;Limited service
+PRY;Paraguay;urban;Drinking water;2010;0.7022443;Safely managed service
+PRY;Paraguay;urban;Drinking water;2010;0.0007951;Surface water
+PRY;Paraguay;urban;Drinking water;2010;0.0266546;Unimproved
+PRY;Paraguay;urban;Drinking water;2011;0.2706565;Basic service
+PRY;Paraguay;urban;Drinking water;2011;0.0005895;Limited service
+PRY;Paraguay;urban;Drinking water;2011;0.7046862;Safely managed service
+PRY;Paraguay;urban;Drinking water;2011;0.0006587;Surface water
+PRY;Paraguay;urban;Drinking water;2011;0.0234091;Unimproved
+PRY;Paraguay;urban;Drinking water;2012;0.2715204;Basic service
+PRY;Paraguay;urban;Drinking water;2012;0.0006655;Limited service
+PRY;Paraguay;urban;Drinking water;2012;0.7071282;Safely managed service
+PRY;Paraguay;urban;Drinking water;2012;0.0005224;Surface water
+PRY;Paraguay;urban;Drinking water;2012;0.0201635;Unimproved
+PRY;Paraguay;urban;Drinking water;2013;0.2723839;Basic service
+PRY;Paraguay;urban;Drinking water;2013;0.0007419;Limited service
+PRY;Paraguay;urban;Drinking water;2013;0.7095701;Safely managed service
+PRY;Paraguay;urban;Drinking water;2013;0.0003861;Surface water
+PRY;Paraguay;urban;Drinking water;2013;0.16918;Unimproved
+PRY;Paraguay;urban;Drinking water;2014;0.2732468;Basic service
+PRY;Paraguay;urban;Drinking water;2014;0.0008189;Limited service
+PRY;Paraguay;urban;Drinking water;2014;0.7120121;Safely managed service
+PRY;Paraguay;urban;Drinking water;2014;0.0002497;Surface water
+PRY;Paraguay;urban;Drinking water;2014;0.0136724;Unimproved
+PRY;Paraguay;urban;Drinking water;2015;0.2741092;Basic service
+PRY;Paraguay;urban;Drinking water;2015;0.0008965;Limited service
+PRY;Paraguay;urban;Drinking water;2015;0.714454;Safely managed service
+PRY;Paraguay;urban;Drinking water;2015;0.0001134;Surface water
+PRY;Paraguay;urban;Drinking water;2015;0.0104269;Unimproved
+PRY;Paraguay;urban;Drinking water;2016;0.2749712;Basic service
+PRY;Paraguay;urban;Drinking water;2016;0.0009745;Limited service
+PRY;Paraguay;urban;Drinking water;2016;0.716896;Safely managed service
+PRY;Paraguay;urban;Drinking water;2016;0;Surface water
+PRY;Paraguay;urban;Drinking water;2016;0.0071584;Unimproved
+PRY;Paraguay;urban;Drinking water;2017;0.2758326;Basic service
+PRY;Paraguay;urban;Drinking water;2017;0.001053;Limited service
+PRY;Paraguay;urban;Drinking water;2017;0.7193379;Safely managed service
+PRY;Paraguay;urban;Drinking water;2017;0;Surface water
+PRY;Paraguay;urban;Drinking water;2017;0.0037765;Unimproved
+PRY;Paraguay;urban;Drinking water;2018;0.2766935;Basic service
+PRY;Paraguay;urban;Drinking water;2018;0.0011321;Limited service
+PRY;Paraguay;urban;Drinking water;2018;0.7217798;Safely managed service
+PRY;Paraguay;urban;Drinking water;2018;0;Surface water
+PRY;Paraguay;urban;Drinking water;2018;0.0003946;Unimproved
+PRY;Paraguay;urban;Drinking water;2019;0.2768027;Basic service
+PRY;Paraguay;urban;Drinking water;2019;0.0011325;Limited service
+PRY;Paraguay;urban;Drinking water;2019;0.7220648;Safely managed service
+PRY;Paraguay;urban;Drinking water;2019;0;Surface water
+PRY;Paraguay;urban;Drinking water;2019;0;Unimproved
+PRY;Paraguay;urban;Drinking water;2020;0.2768027;Basic service
+PRY;Paraguay;urban;Drinking water;2020;0.0011325;Limited service
+PRY;Paraguay;urban;Drinking water;2020;0.7220648;Safely managed service
+PRY;Paraguay;urban;Drinking water;2020;0;Surface water
+PRY;Paraguay;urban;Drinking water;2020;0;Unimproved
+PRY;Paraguay;urban;Drinking water;2021;0.2768027;Basic service
+PRY;Paraguay;urban;Drinking water;2021;0.0011325;Limited service
+PRY;Paraguay;urban;Drinking water;2021;0.7220648;Safely managed service
+PRY;Paraguay;urban;Drinking water;2021;0;Surface water
+PRY;Paraguay;urban;Drinking water;2021;0;Unimproved
+PRY;Paraguay;urban;Drinking water;2022;0.2768027;Basic service
+PRY;Paraguay;urban;Drinking water;2022;0.0011325;Limited service
+PRY;Paraguay;urban;Drinking water;2022;0.7220648;Safely managed service
+PRY;Paraguay;urban;Drinking water;2022;0;Surface water
+PRY;Paraguay;urban;Drinking water;2022;0;Unimproved
+SLV;El Salvador;urban;Drinking water;2000;0.916948;Basic service
+SLV;El Salvador;urban;Drinking water;2000;0.0283062;Limited service
+SLV;El Salvador;urban;Drinking water;2000;0.8433012;Safely managed service
+SLV;El Salvador;urban;Drinking water;2000;0.0061503;Surface water
+SLV;El Salvador;urban;Drinking water;2000;0.0305475;Unimproved
+SLV;El Salvador;urban;Drinking water;2001;0.916948;Basic service
+SLV;El Salvador;urban;Drinking water;2001;0.0283062;Limited service
+SLV;El Salvador;urban;Drinking water;2001;0.8433012;Safely managed service
+SLV;El Salvador;urban;Drinking water;2001;0.0061503;Surface water
+SLV;El Salvador;urban;Drinking water;2001;0.0305475;Unimproved
+SLV;El Salvador;urban;Drinking water;2002;0.979608;Basic service
+SLV;El Salvador;urban;Drinking water;2002;0.0263884;Limited service
+SLV;El Salvador;urban;Drinking water;2002;0.8407589;Safely managed service
+SLV;El Salvador;urban;Drinking water;2002;0.0060134;Surface water
+SLV;El Salvador;urban;Drinking water;2002;0.0288784;Unimproved
+SLV;El Salvador;urban;Drinking water;2003;0.1042496;Basic service
+SLV;El Salvador;urban;Drinking water;2003;0.0244633;Limited service
+SLV;El Salvador;urban;Drinking water;2003;0.8382011;Safely managed service
+SLV;El Salvador;urban;Drinking water;2003;0.0058766;Surface water
+SLV;El Salvador;urban;Drinking water;2003;0.0272094;Unimproved
+SLV;El Salvador;urban;Drinking water;2004;0.1105612;Basic service
+SLV;El Salvador;urban;Drinking water;2004;0.0225308;Limited service
+SLV;El Salvador;urban;Drinking water;2004;0.8356279;Safely managed service
+SLV;El Salvador;urban;Drinking water;2004;0.0057397;Surface water
+SLV;El Salvador;urban;Drinking water;2004;0.0255404;Unimproved
+SLV;El Salvador;urban;Drinking water;2005;0.1168956;Basic service
+SLV;El Salvador;urban;Drinking water;2005;0.0205909;Limited service
+SLV;El Salvador;urban;Drinking water;2005;0.8330393;Safely managed service
+SLV;El Salvador;urban;Drinking water;2005;0.0056028;Surface water
+SLV;El Salvador;urban;Drinking water;2005;0.0238714;Unimproved
+SLV;El Salvador;urban;Drinking water;2006;0.1232528;Basic service
+SLV;El Salvador;urban;Drinking water;2006;0.0186436;Limited service
+SLV;El Salvador;urban;Drinking water;2006;0.8304352;Safely managed service
+SLV;El Salvador;urban;Drinking water;2006;0.005466;Surface water
+SLV;El Salvador;urban;Drinking water;2006;0.0222024;Unimproved
+SLV;El Salvador;urban;Drinking water;2007;0.1296329;Basic service
+SLV;El Salvador;urban;Drinking water;2007;0.16689;Limited service
+SLV;El Salvador;urban;Drinking water;2007;0.8278157;Safely managed service
+SLV;El Salvador;urban;Drinking water;2007;0.0053291;Surface water
+SLV;El Salvador;urban;Drinking water;2007;0.0205334;Unimproved
+SLV;El Salvador;urban;Drinking water;2008;0.1360357;Basic service
+SLV;El Salvador;urban;Drinking water;2008;0.0147269;Limited service
+SLV;El Salvador;urban;Drinking water;2008;0.8251808;Safely managed service
+SLV;El Salvador;urban;Drinking water;2008;0.0051922;Surface water
+SLV;El Salvador;urban;Drinking water;2008;0.0188643;Unimproved
+SLV;El Salvador;urban;Drinking water;2009;0.1424613;Basic service
+SLV;El Salvador;urban;Drinking water;2009;0.0127576;Limited service
+SLV;El Salvador;urban;Drinking water;2009;0.8225305;Safely managed service
+SLV;El Salvador;urban;Drinking water;2009;0.0050553;Surface water
+SLV;El Salvador;urban;Drinking water;2009;0.0171953;Unimproved
+SLV;El Salvador;urban;Drinking water;2010;0.1489097;Basic service
+SLV;El Salvador;urban;Drinking water;2010;0.0107808;Limited service
+SLV;El Salvador;urban;Drinking water;2010;0.8198647;Safely managed service
+SLV;El Salvador;urban;Drinking water;2010;0.0049185;Surface water
+SLV;El Salvador;urban;Drinking water;2010;0.0155263;Unimproved
+SLV;El Salvador;urban;Drinking water;2011;0.0155381;Basic service
+SLV;El Salvador;urban;Drinking water;2011;0.0087966;Limited service
+SLV;El Salvador;urban;Drinking water;2011;0.8171835;Safely managed service
+SLV;El Salvador;urban;Drinking water;2011;0.0047816;Surface water
+SLV;El Salvador;urban;Drinking water;2011;0.0138573;Unimproved
+SLV;El Salvador;urban;Drinking water;2012;0.0161875;Basic service
+SLV;El Salvador;urban;Drinking water;2012;0.0068051;Limited service
+SLV;El Salvador;urban;Drinking water;2012;0.8144869;Safely managed service
+SLV;El Salvador;urban;Drinking water;2012;0.0046447;Surface water
+SLV;El Salvador;urban;Drinking water;2012;0.0121883;Unimproved
+SLV;El Salvador;urban;Drinking water;2013;0.1683919;Basic service
+SLV;El Salvador;urban;Drinking water;2013;0.0048062;Limited service
+SLV;El Salvador;urban;Drinking water;2013;0.8117748;Safely managed service
+SLV;El Salvador;urban;Drinking water;2013;0.0045078;Surface water
+SLV;El Salvador;urban;Drinking water;2013;0.0105193;Unimproved
+SLV;El Salvador;urban;Drinking water;2014;0.1749315;Basic service
+SLV;El Salvador;urban;Drinking water;2014;0.0027999;Limited service
+SLV;El Salvador;urban;Drinking water;2014;0.8090473;Safely managed service
+SLV;El Salvador;urban;Drinking water;2014;0.004371;Surface water
+SLV;El Salvador;urban;Drinking water;2014;0.0088502;Unimproved
+SLV;El Salvador;urban;Drinking water;2015;0.0181494;Basic service
+SLV;El Salvador;urban;Drinking water;2015;0.0007863;Limited service
+SLV;El Salvador;urban;Drinking water;2015;0.8063044;Safely managed service
+SLV;El Salvador;urban;Drinking water;2015;0.0042341;Surface water
+SLV;El Salvador;urban;Drinking water;2015;0.0071812;Unimproved
+SLV;El Salvador;urban;Drinking water;2016;0.1868446;Basic service
+SLV;El Salvador;urban;Drinking water;2016;0;Limited service
+SLV;El Salvador;urban;Drinking water;2016;0.803546;Safely managed service
+SLV;El Salvador;urban;Drinking water;2016;0.0040972;Surface water
+SLV;El Salvador;urban;Drinking water;2016;0.0055122;Unimproved
+SLV;El Salvador;urban;Drinking water;2017;0.1914242;Basic service
+SLV;El Salvador;urban;Drinking water;2017;0;Limited service
+SLV;El Salvador;urban;Drinking water;2017;0.8007722;Safely managed service
+SLV;El Salvador;urban;Drinking water;2017;0.0039604;Surface water
+SLV;El Salvador;urban;Drinking water;2017;0.0038432;Unimproved
+SLV;El Salvador;urban;Drinking water;2018;0.1960193;Basic service
+SLV;El Salvador;urban;Drinking water;2018;0;Limited service
+SLV;El Salvador;urban;Drinking water;2018;0.797983;Safely managed service
+SLV;El Salvador;urban;Drinking water;2018;0.0038235;Surface water
+SLV;El Salvador;urban;Drinking water;2018;0.0021742;Unimproved
+SLV;El Salvador;urban;Drinking water;2019;0.2006299;Basic service
+SLV;El Salvador;urban;Drinking water;2019;0;Limited service
+SLV;El Salvador;urban;Drinking water;2019;0.7951783;Safely managed service
+SLV;El Salvador;urban;Drinking water;2019;0.0036866;Surface water
+SLV;El Salvador;urban;Drinking water;2019;0.0005052;Unimproved
+SLV;El Salvador;urban;Drinking water;2020;0.2050172;Basic service
+SLV;El Salvador;urban;Drinking water;2020;0;Limited service
+SLV;El Salvador;urban;Drinking water;2020;0.7914371;Safely managed service
+SLV;El Salvador;urban;Drinking water;2020;0.0035456;Surface water
+SLV;El Salvador;urban;Drinking water;2020;0;Unimproved
+SLV;El Salvador;urban;Drinking water;2021;0.2093043;Basic service
+SLV;El Salvador;urban;Drinking water;2021;0;Limited service
+SLV;El Salvador;urban;Drinking water;2021;0.7872924;Safely managed service
+SLV;El Salvador;urban;Drinking water;2021;0.0034032;Surface water
+SLV;El Salvador;urban;Drinking water;2021;0;Unimproved
+SLV;El Salvador;urban;Drinking water;2022;0.2142914;Basic service
+SLV;El Salvador;urban;Drinking water;2022;0;Limited service
+SLV;El Salvador;urban;Drinking water;2022;0.7857086;Safely managed service
+SLV;El Salvador;urban;Drinking water;2022;0;Surface water
+SLV;El Salvador;urban;Drinking water;2022;0;Unimproved
+URY;Uruguay;urban;Drinking water;2000;0.0497693;Basic service
+URY;Uruguay;urban;Drinking water;2000;0.0039624;Limited service
+URY;Uruguay;urban;Drinking water;2000;0.9392301;Safely managed service
+URY;Uruguay;urban;Drinking water;2000;0.0001607;Surface water
+URY;Uruguay;urban;Drinking water;2000;0.0068776;Unimproved
+URY;Uruguay;urban;Drinking water;2001;0.0497693;Basic service
+URY;Uruguay;urban;Drinking water;2001;0.0039624;Limited service
+URY;Uruguay;urban;Drinking water;2001;0.9392301;Safely managed service
+URY;Uruguay;urban;Drinking water;2001;0.0001607;Surface water
+URY;Uruguay;urban;Drinking water;2001;0.0068776;Unimproved
+URY;Uruguay;urban;Drinking water;2002;0.0498173;Basic service
+URY;Uruguay;urban;Drinking water;2002;0.0039144;Limited service
+URY;Uruguay;urban;Drinking water;2002;0.9392301;Safely managed service
+URY;Uruguay;urban;Drinking water;2002;0.0001607;Surface water
+URY;Uruguay;urban;Drinking water;2002;0.0068776;Unimproved
+URY;Uruguay;urban;Drinking water;2003;0.0498652;Basic service
+URY;Uruguay;urban;Drinking water;2003;0.0038665;Limited service
+URY;Uruguay;urban;Drinking water;2003;0.9392301;Safely managed service
+URY;Uruguay;urban;Drinking water;2003;0.0001607;Surface water
+URY;Uruguay;urban;Drinking water;2003;0.0068776;Unimproved
+URY;Uruguay;urban;Drinking water;2004;0.0499132;Basic service
+URY;Uruguay;urban;Drinking water;2004;0.0038185;Limited service
+URY;Uruguay;urban;Drinking water;2004;0.9392301;Safely managed service
+URY;Uruguay;urban;Drinking water;2004;0.0001607;Surface water
+URY;Uruguay;urban;Drinking water;2004;0.0068776;Unimproved
+URY;Uruguay;urban;Drinking water;2005;0.49987;Basic service
+URY;Uruguay;urban;Drinking water;2005;0.0037725;Limited service
+URY;Uruguay;urban;Drinking water;2005;0.9397152;Safely managed service
+URY;Uruguay;urban;Drinking water;2005;0.0001522;Surface water
+URY;Uruguay;urban;Drinking water;2005;0.0063731;Unimproved
+URY;Uruguay;urban;Drinking water;2006;0.0500608;Basic service
+URY;Uruguay;urban;Drinking water;2006;0.0037264;Limited service
+URY;Uruguay;urban;Drinking water;2006;0.9402004;Safely managed service
+URY;Uruguay;urban;Drinking water;2006;0.0001437;Surface water
+URY;Uruguay;urban;Drinking water;2006;0.0058686;Unimproved
+URY;Uruguay;urban;Drinking water;2007;0.0501347;Basic service
+URY;Uruguay;urban;Drinking water;2007;0.0036803;Limited service
+URY;Uruguay;urban;Drinking water;2007;0.9406856;Safely managed service
+URY;Uruguay;urban;Drinking water;2007;0.0001352;Surface water
+URY;Uruguay;urban;Drinking water;2007;0.0053642;Unimproved
+URY;Uruguay;urban;Drinking water;2008;0.0502086;Basic service
+URY;Uruguay;urban;Drinking water;2008;0.0036341;Limited service
+URY;Uruguay;urban;Drinking water;2008;0.9411708;Safely managed service
+URY;Uruguay;urban;Drinking water;2008;0.0001267;Surface water
+URY;Uruguay;urban;Drinking water;2008;0.0048597;Unimproved
+URY;Uruguay;urban;Drinking water;2009;0.0502826;Basic service
+URY;Uruguay;urban;Drinking water;2009;0.0035879;Limited service
+URY;Uruguay;urban;Drinking water;2009;0.941656;Safely managed service
+URY;Uruguay;urban;Drinking water;2009;0.0001183;Surface water
+URY;Uruguay;urban;Drinking water;2009;0.0043552;Unimproved
+URY;Uruguay;urban;Drinking water;2010;0.0503566;Basic service
+URY;Uruguay;urban;Drinking water;2010;0.0035416;Limited service
+URY;Uruguay;urban;Drinking water;2010;0.9421412;Safely managed service
+URY;Uruguay;urban;Drinking water;2010;0.0001098;Surface water
+URY;Uruguay;urban;Drinking water;2010;0.0038508;Unimproved
+URY;Uruguay;urban;Drinking water;2011;0.0504307;Basic service
+URY;Uruguay;urban;Drinking water;2011;0.0034953;Limited service
+URY;Uruguay;urban;Drinking water;2011;0.9426264;Safely managed service
+URY;Uruguay;urban;Drinking water;2011;0.0001013;Surface water
+URY;Uruguay;urban;Drinking water;2011;0.0033463;Unimproved
+URY;Uruguay;urban;Drinking water;2012;0.0505048;Basic service
+URY;Uruguay;urban;Drinking water;2012;0.003449;Limited service
+URY;Uruguay;urban;Drinking water;2012;0.9431116;Safely managed service
+URY;Uruguay;urban;Drinking water;2012;0.0000928;Surface water
+URY;Uruguay;urban;Drinking water;2012;0.0028419;Unimproved
+URY;Uruguay;urban;Drinking water;2013;0.50579;Basic service
+URY;Uruguay;urban;Drinking water;2013;0.0034025;Limited service
+URY;Uruguay;urban;Drinking water;2013;0.9435968;Safely managed service
+URY;Uruguay;urban;Drinking water;2013;0.0000843;Surface water
+URY;Uruguay;urban;Drinking water;2013;0.0023374;Unimproved
+URY;Uruguay;urban;Drinking water;2014;0.0506532;Basic service
+URY;Uruguay;urban;Drinking water;2014;0.0033561;Limited service
+URY;Uruguay;urban;Drinking water;2014;0.944082;Safely managed service
+URY;Uruguay;urban;Drinking water;2014;0.0000758;Surface water
+URY;Uruguay;urban;Drinking water;2014;0.0018329;Unimproved
+URY;Uruguay;urban;Drinking water;2015;0.0507275;Basic service
+URY;Uruguay;urban;Drinking water;2015;0.0033096;Limited service
+URY;Uruguay;urban;Drinking water;2015;0.9445672;Safely managed service
+URY;Uruguay;urban;Drinking water;2015;0.0000674;Surface water
+URY;Uruguay;urban;Drinking water;2015;0.0013285;Unimproved
+URY;Uruguay;urban;Drinking water;2016;0.0508018;Basic service
+URY;Uruguay;urban;Drinking water;2016;0.003263;Limited service
+URY;Uruguay;urban;Drinking water;2016;0.9450524;Safely managed service
+URY;Uruguay;urban;Drinking water;2016;0.0000589;Surface water
+URY;Uruguay;urban;Drinking water;2016;0.000824;Unimproved
+URY;Uruguay;urban;Drinking water;2017;0.0508762;Basic service
+URY;Uruguay;urban;Drinking water;2017;0.0032164;Limited service
+URY;Uruguay;urban;Drinking water;2017;0.9455375;Safely managed service
+URY;Uruguay;urban;Drinking water;2017;0.0000504;Surface water
+URY;Uruguay;urban;Drinking water;2017;0.0003195;Unimproved
+URY;Uruguay;urban;Drinking water;2018;0.0509433;Basic service
+URY;Uruguay;urban;Drinking water;2018;0.0031693;Limited service
+URY;Uruguay;urban;Drinking water;2018;0.9458874;Safely managed service
+URY;Uruguay;urban;Drinking water;2018;0;Surface water
+URY;Uruguay;urban;Drinking water;2018;0;Unimproved
+URY;Uruguay;urban;Drinking water;2019;0.0509916;Basic service
+URY;Uruguay;urban;Drinking water;2019;0.003121;Limited service
+URY;Uruguay;urban;Drinking water;2019;0.9458874;Safely managed service
+URY;Uruguay;urban;Drinking water;2019;0;Surface water
+URY;Uruguay;urban;Drinking water;2019;0;Unimproved
+URY;Uruguay;urban;Drinking water;2020;0.0510399;Basic service
+URY;Uruguay;urban;Drinking water;2020;0.0030727;Limited service
+URY;Uruguay;urban;Drinking water;2020;0.9458874;Safely managed service
+URY;Uruguay;urban;Drinking water;2020;0;Surface water
+URY;Uruguay;urban;Drinking water;2020;0;Unimproved
+URY;Uruguay;urban;Drinking water;2021;0.0510882;Basic service
+URY;Uruguay;urban;Drinking water;2021;0.0030243;Limited service
+URY;Uruguay;urban;Drinking water;2021;0.9458874;Safely managed service
+URY;Uruguay;urban;Drinking water;2021;0;Surface water
+URY;Uruguay;urban;Drinking water;2021;0;Unimproved
+URY;Uruguay;urban;Drinking water;2022;0.0510882;Basic service
+URY;Uruguay;urban;Drinking water;2022;0.0030243;Limited service
+URY;Uruguay;urban;Drinking water;2022;0.9458874;Safely managed service
+URY;Uruguay;urban;Drinking water;2022;0;Surface water
+URY;Uruguay;urban;Drinking water;2022;0;Unimproved
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2000;0.972277;At least basic
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2000;0.0048858;Limited service
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2000;0.018406;Surface water
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2000;0.0044312;Unimproved
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2001;0.970506;At least basic
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2001;0.0048769;Limited service
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2001;0.180503;Surface water
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2001;0.0065668;Unimproved
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2002;0.9687351;At least basic
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2002;0.004868;Limited service
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2002;0.176946;Surface water
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2002;0.0087023;Unimproved
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2003;0.9669641;At least basic
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2003;0.0048591;Limited service
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2003;0.017339;Surface water
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2003;0.108378;Unimproved
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2004;0.9651932;At least basic
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2004;0.0048502;Limited service
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2004;0.169833;Surface water
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2004;0.129733;Unimproved
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2005;0.9634222;At least basic
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2005;0.0048413;Limited service
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2005;0.166276;Surface water
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2005;0.151088;Unimproved
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2006;0.9616513;At least basic
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2006;0.0048324;Limited service
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2006;0.016272;Surface water
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2006;0.172443;Unimproved
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2007;0.9598803;At least basic
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2007;0.0048235;Limited service
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2007;0.159163;Surface water
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2007;0.193799;Unimproved
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2008;0.9581094;At least basic
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2008;0.0048146;Limited service
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2008;0.155606;Surface water
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2008;0.215154;Unimproved
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2009;0.9563384;At least basic
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2009;0.0048057;Limited service
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2009;0.015205;Surface water
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2009;0.236509;Unimproved
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2010;0.9545675;At least basic
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2010;0.0047968;Limited service
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2010;0.148493;Surface water
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2010;0.257864;Unimproved
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2011;0.9527965;At least basic
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2011;0.0047879;Limited service
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2011;0.144936;Surface water
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2011;0.279219;Unimproved
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2012;0.9510256;At least basic
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2012;0.004779;Limited service
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2012;0.141379;Surface water
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2012;0.300574;Unimproved
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2013;0.9492546;At least basic
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2013;0.0047701;Limited service
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2013;0.137823;Surface water
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2013;0.321929;Unimproved
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2014;0.9474837;At least basic
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2014;0.0047612;Limited service
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2014;0.137823;Surface water
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2014;0.339728;Unimproved
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2015;0.9457128;At least basic
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2015;0.0047523;Limited service
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2015;0.137823;Surface water
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2015;0.357526;Unimproved
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2016;0.9439418;At least basic
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2016;0.0047434;Limited service
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2016;0.137823;Surface water
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2016;0.375325;Unimproved
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2017;0.9421709;At least basic
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2017;0.0047345;Limited service
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2017;0.137823;Surface water
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2017;0.393123;Unimproved
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2018;0.9403999;At least basic
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2018;0.0047256;Limited service
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2018;0.548745;Unimproved
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2019;0.938629;At least basic
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2019;0.0047167;Limited service
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2019;0.566543;Unimproved
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2020;0.936858;At least basic
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2020;0.0047078;Limited service
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2020;0.584342;Unimproved
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2021;0.9350871;At least basic
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2021;0.0046989;Limited service
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2021;0.060214;Unimproved
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2022;0.9333161;At least basic
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2022;0.00469;Limited service
+VEN;Venezuela (Bolivarian Republic of);total;Drinking water;2022;0.619939;Unimproved
