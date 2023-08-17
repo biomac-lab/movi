@@ -118,3 +118,5 @@ alt_data <- alt_orig_data %>% filter(country %in% country_tags) %>%
     n_below2000m = `<500m` + `500-999m` + `1000-1499m` + `1500-1999m`,
     p_below2000m = `%<500m` + `%500-999m` + `%1000-1499m` + `%1500-1999m`
   )
+
+rm(list=(ls()[!(ls() %in% c("climate_data","haq_data","wash_data","alt_data"))]))
