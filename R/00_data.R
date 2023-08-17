@@ -1,11 +1,6 @@
 library(readr)
 library(tidyverse)
 
-t_data_path <- c("data/temperature_data/tas_timeseries_annual_era_1970-2020_")
-h_data_path <- c("data/humidity_data/hurs_timeseries_annual_era_1970-2020_")
-p_data_path <- c("data/precipitation_data/pr_timeseries_annual_era_1970-2020_")
-
-
 country_tags <- c("ARG" = "Argentina", "BRA" = "Brazil", "BOL" = "Bolivia",
                   "CHL" = "Chile", "COL" = "Colombia", "CRI" = "Costa Rica",
                   "ECU" ="Ecuador", "GTM" = "Guatemala", "HND" = "Honduras",
@@ -15,7 +10,12 @@ country_tags <- c("ARG" = "Argentina", "BRA" = "Brazil", "BOL" = "Bolivia",
 
 years <- seq(2000,2022)
 
+
 ## Climate data
+
+t_data_path <- c("data/temperature_data/tas_timeseries_annual_era_1970-2020_")
+h_data_path <- c("data/humidity_data/hurs_timeseries_annual_era_1970-2020_")
+p_data_path <- c("data/precipitation_data/pr_timeseries_annual_era_1970-2020_")
 
 climate_data <- data.frame("year" = rep(years, length(country_tags)),
                            "country" = rep(country_tags, each = length(years)), 
@@ -106,7 +106,6 @@ wash_data <- data.frame(iso3 = rep(unique(wash_orig_data$iso3), each = length(ye
 
 wash_data$coverage <- ifelse(wash_data$coverage>0.1,wash_data$coverage/10,wash_data$coverage)
 
-## TO DO: CORREGIR WASH DATA
 
 ## Altitudinal demographic data
 
