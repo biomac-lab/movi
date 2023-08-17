@@ -227,9 +227,12 @@ setEmpiricalClimateSeries<- function(filepath=NA, D=NA, sep=',', NDTSmoothTH=30)
   }
 
   ##temperature, humidity mandatory to calculate P
-  MVSE_data$H<<- .smoothUDSeries(MVSE_data$H,NDTSmoothTH)
-  MVSE_data$T<<- .smoothUDSeries(MVSE_data$T,NDTSmoothTH)
-  MVSE_data$R<<- .smoothUDSeries(MVSE_data$R,NDTSmoothTH)
+  # MVSE_data$H<<- .smoothUDSeries(MVSE_data$H,NDTSmoothTH)
+  # MVSE_data$T<<- .smoothUDSeries(MVSE_data$T,NDTSmoothTH)
+  # MVSE_data$R<<- .smoothUDSeries(MVSE_data$R,NDTSmoothTH)
+  MVSE_data$H<<- MVSE_data$H
+  MVSE_data$T<<- MVSE_data$T
+  MVSE_data$R<<- MVSE_data$R
   MVSE_data$oH<<- MVSE_data$H
   MVSE_data$H<<-  MVSE_data$H/100 #normalize
   MVSE_data$oR<<- MVSE_data$R
@@ -633,9 +636,12 @@ simulateEmpiricalIndexP<- function(nSample=1000, smoothing=c()){
     MVSE_results$V0Smooth<<- list() ###NEW
     for(ss in smoothing){
       ii<- length(MVSE_results$indexPSmooth)+1
-      MVSE_results$indexPSmooth[[ii]]<<- .smoothUDSeries(MVSE_results$indexP, ss)
-      MVSE_results$QSmooth[[ii]]<<- .smoothUDSeries(MVSE_results$Q, ss)
-      MVSE_results$V0Smooth[[ii]]<<- .smoothUDSeries(MVSE_results$V0, ss)
+      # MVSE_results$indexPSmooth[[ii]]<<- .smoothUDSeries(MVSE_results$indexP, ss)
+      # MVSE_results$QSmooth[[ii]]<<- .smoothUDSeries(MVSE_results$Q, ss)
+      # MVSE_results$V0Smooth[[ii]]<<- .smoothUDSeries(MVSE_results$V0, ss)
+      MVSE_results$indexPSmooth[[ii]]<<- MVSE_results$indexP
+      MVSE_results$QSmooth[[ii]]<<- MVSE_results$Q
+      MVSE_results$V0Smooth[[ii]]<<- MVSE_results$V0
     }
     names(MVSE_results$indexPSmooth)<<- paste0('smooth',smoothing)
     names(MVSE_results$QSmooth)<<- paste0('smooth',smoothing)
