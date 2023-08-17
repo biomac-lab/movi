@@ -15,6 +15,8 @@ country_tags <- c("ARG" = "Argentina", "BRA" = "Brazil", "BOL" = "Bolivia",
 
 years <- seq(2000,2022)
 
+## Climate data
+
 climate_data <- data.frame("year" = rep(years, length(country_tags)),
                            "country" = rep(country_tags, each = length(years)), 
                            "iso3" = rep(names(country_tags), each = length(years)),
@@ -63,7 +65,7 @@ climate_data$humidity <- h_data
 climate_data$precipitation <- p_data
 
 
-# HAQ Data
+## HAQ Data
 haq_orig_data <- as.data.frame(read_delim("data/haq_data.csv",
                                           delim = ";", escape_double = FALSE))
 haq_orig_data <- haq_orig_data %>% filter(year %in% years & iso3 %in% names(country_tags))
@@ -77,7 +79,7 @@ for (tag in names(country_tags)){
   haq_data <- rbind(haq_data,orig_data,reps)
 }
 
-# WASH Data
+## WASH Data
 
 wash_orig_data <- as.data.frame(read_delim("data/wash_data.csv", 
                                            delim = ";", escape_double = FALSE, na = "NA"))
@@ -90,9 +92,9 @@ coverages <- c()
 for (c in names(country_tags)){
   for (y in years){
     sum_cov <- sum(wash_orig_data$coverage[which(wash_orig_data$service_level %in% 
-                                        names(service_lvl_tags[1:3]) &
-                                        wash_orig_data$iso3 == c &
-                                        wash_orig_data$year== y)])
+                                                   names(service_lvl_tags[1:3]) &
+                                                   wash_orig_data$iso3 == c &
+                                                   wash_orig_data$year== y)])
     coverages <- c(coverages, sum_cov)
   }
 }
@@ -106,3 +108,14 @@ wash_data$coverage <- ifelse(wash_data$coverage>0.1,wash_data$coverage/10,wash_d
 
 ## TO DO: CORREGIR WASH DATA
 
+## Altitudinal demographic data
+
+alt_orig_data <- as.data.frame(read_delim("data/altitudinal_demog_data.csv", 
+                            delim = ";", escape_double = FALSE, na = "NA"))
+alt_orig_data$`<500m` <- as.numeric(alt_orig_data$`<500m`)
+
+alt_data <- alt_orig_data %>% filter(country %in% country_tags) %>% 
+  mutate(
+    n_below2000m = `<500m` + `500-999m` + `1000-1499m` + `1500-1999m`,
+    p_below2000m = `%<500m` + `%500-999m` + `%1000-1499m` + `%1500-1999m`
+  )
