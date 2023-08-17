@@ -7,16 +7,6 @@
 
 # MoVI <img src="man/figures/logo_movi.PNG" align="right" width="120" />
 
-<!-- badges: start -->
-
-[![License:
-MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/license/mit/)
-[![R-CMD-check](https://github.com/biomac-lab/movi/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/biomac-lab/movi/actions/workflows/R-CMD-check.yaml)
-[![Codecov test
-coverage](https://codecov.io/gh/biomac-lab/movi/branch/main/graph/badge.svg)](https://app.codecov.io/gh/biomac-lab/movi?branch=main)
-[![lifecycle-concept](https://raw.githubusercontent.com/reconverse/reconverse.github.io/master/images/badge-concept.svg)](https://www.reconverse.org/lifecycle.html#concept)
-<!-- badges: end -->
-
 MoVI provides functions to estimate and visualize the Lancet Countdown South America's Mosquito-borne diseases Vulnerability Indicator estimated from the:
 
 - [Climate-driven Mosquito-borne Viral Suitability Estimator][1]
