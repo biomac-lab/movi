@@ -33,37 +33,7 @@ References
 
 MoVI is developed at the [BIOMAC](https://ingbiomedica.uniandes.edu.co/es/investigacion/lineas-investigacion/biologia-matematica-computacional) at the [Universidad de los Andes](https://uniandes.edu.co/).
 
-## Installation
-
-You can install the development version of packagetemplate from
-[GitHub](https://github.com/) with:
-
-``` r
-# install.packages("pak")
-pak::pak("biomac-lab/movi")
-```
-
-## Example
-
-These examples illustrate some of the current functionalities
-
-## Development
-
-### Lifecycle
-
-This package is currently a *concept*, as defined by the [RECON software
-lifecycle](https://www.reconverse.org/lifecycle.html). This means that
-essential features and mechanisms are still being developed, and the
-package is not ready for use outside of the development team.
-
 ### Contributions
 
 Contributions are welcome via [pull
 requests](https://github.com/biomac-lab/movi/pulls).
-
-### Code of Conduct
-
-Please note that the packagetemplate project is released with a
-[Contributor Code of
-Conduct](https://github.com/epiverse-trace/.github/blob/main/CODE_OF_CONDUCT.md).
-By contributing to this project, you agree to abide by its terms.
