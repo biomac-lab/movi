@@ -1,11 +1,11 @@
 library(readr)
 library(tidyverse)
 
-country_tags <- c("ARG" = "Argentina", "BRA" = "Brazil", "BOL" = "Bolivia",
+country_tags <- c("ARG" = "Argentina", "BOL" = "Bolivia", "BRA" = "Brazil", 
                   "CHL" = "Chile", "COL" = "Colombia", "CRI" = "Costa Rica",
-                  "ECU" ="Ecuador", "GTM" = "Guatemala", "HND" = "Honduras",
-                  "MEX" = "Mexico", "NIC" = "Nicaragua", "PAN" = "Panama",
-                  "PER" = "Peru", "PRY" = "Paraguay", "SLV" = "El Salvador",
+                  "ECU" ="Ecuador", "SLV" = "El Salvador", "GTM" = "Guatemala",
+                  "HND" = "Honduras", "MEX" = "Mexico", "NIC" = "Nicaragua",
+                  "PAN" = "Panama", "PRY" = "Paraguay", "PER" = "Peru",  
                   "URY" = "Uruguay", "VEN" = "Venezuela")
 
 years <- seq(2000,2022)
@@ -91,14 +91,10 @@ service_lvl_tags <- c("Surface water" = 1, "Unimproved" = 2,
 coverages <- c()
 for (c in names(country_tags)){
   for (y in years){
-    # sum_cov <- sum(wash_orig_data$coverage[which(wash_orig_data$service_level %in% 
-    #                                                names(service_lvl_tags[1:3]) &
-    #                                                wash_orig_data$iso3 == c &
-    #                                                wash_orig_data$year== y)])
-    # TODO: corregir suma
-    print(y)
-    print(sum_cov)
-    coverages <- c(coverages, sum_cov)
+    country_cov <- wash_orig_data %>% filter(iso3 == c, wash_orig_data$year== y,  
+                                             wash_orig_data$service_level %in% names(service_lvl_tags[1:3])) %>%
+                                              select(coverage)
+    coverages <- c(coverages, sum(country_cov))
   }
 }
 
@@ -110,7 +106,7 @@ wash_data <- data.frame(iso3 = rep(unique(wash_orig_data$iso3), each = length(ye
 ## Altitudinal demographic data
 
 alt_orig_data <- as.data.frame(read_delim("data/altitudinal_demog_data.csv", 
-                            delim = ";", escape_double = FALSE, na = "NA"))
+                                          delim = ";", escape_double = FALSE, na = "NA"))
 alt_orig_data$`<500m` <- as.numeric(alt_orig_data$`<500m`)
 
 alt_data <- alt_orig_data %>% filter(country %in% country_tags) %>% 
@@ -123,7 +119,7 @@ alt_data <- alt_orig_data %>% filter(country %in% country_tags) %>%
 ## Urban data
 
 urban_orig_data <- read_delim("data/urban_population_data.csv", 
-                                    delim = ";", escape_double = FALSE, na = "NA")
+                              delim = ";", escape_double = FALSE, na = "NA")
 
 urban_orig_data <- urban_orig_data %>% filter(year %in% years & iso3 %in% names(country_tags))
 
@@ -136,5 +132,5 @@ for (tag in names(country_tags)){
   urban_data <- rbind(urban_data,orig_data,reps)
 }
 
-#rm(list=(ls()[!(ls() %in% c("climate_data","haq_data","urban_data","wash_data","alt_data",
-                            "country_tags", "years", "service_lvl_tags"))]))
+rm(list=(ls()[!(ls() %in% c("climate_data","haq_data","urban_data","wash_data","alt_data",
+                          "country_tags", "years", "service_lvl_tags"))]))
