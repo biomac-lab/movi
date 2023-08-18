@@ -43,7 +43,7 @@ for (country_i in country_tags){
   
   indexP_country <- as.data.frame(read_csv(paste0("results/movi_wP_",country_i,
                                                   ".estimated_indexP.csv")))
-  indexP_country <- indexP_country$indexP
+  indexP_country <- as.numeric(indexP_country$indexP)
   
   urban_country <- urban_data %>% filter(country == country_i)
   urban_country <- as.numeric(urban_country$urban_population)/100

@@ -91,10 +91,13 @@ service_lvl_tags <- c("Surface water" = 1, "Unimproved" = 2,
 coverages <- c()
 for (c in names(country_tags)){
   for (y in years){
-    sum_cov <- sum(wash_orig_data$coverage[which(wash_orig_data$service_level %in% 
-                                                   names(service_lvl_tags[1:3]) &
-                                                   wash_orig_data$iso3 == c &
-                                                   wash_orig_data$year== y)])
+    # sum_cov <- sum(wash_orig_data$coverage[which(wash_orig_data$service_level %in% 
+    #                                                names(service_lvl_tags[1:3]) &
+    #                                                wash_orig_data$iso3 == c &
+    #                                                wash_orig_data$year== y)])
+    # TODO: corregir suma
+    print(y)
+    print(sum_cov)
     coverages <- c(coverages, sum_cov)
   }
 }
@@ -103,9 +106,6 @@ wash_data <- data.frame(iso3 = rep(unique(wash_orig_data$iso3), each = length(ye
                         country = rep(unique(wash_orig_data$country), each = length(years)),
                         year = rep(years, length(country_tags)),
                         coverage = coverages)
-
-wash_data$coverage <- ifelse(wash_data$coverage>0.1,wash_data$coverage/10,wash_data$coverage)
-
 
 ## Altitudinal demographic data
 
@@ -136,5 +136,5 @@ for (tag in names(country_tags)){
   urban_data <- rbind(urban_data,orig_data,reps)
 }
 
-rm(list=(ls()[!(ls() %in% c("climate_data","haq_data","urban_data","wash_data","alt_data",
+#rm(list=(ls()[!(ls() %in% c("climate_data","haq_data","urban_data","wash_data","alt_data",
                             "country_tags", "years", "service_lvl_tags"))]))
