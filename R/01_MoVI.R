@@ -5,42 +5,66 @@ require("pbapply")
 require("scales")
 require("genlasso")
 
-country_i <- country_tags[5]
+movi_data <- data.frame(matrix(ncol = length(country_tags),
+                               nrow = length(years)))
+colnames(movi_data) <- country_tags[]
 
-ClimateSeries <- climate_data %>% filter(country == country_i)
-ClimateSeries <- data.frame(T = ClimateSeries$temperature,
-                            H = ClimateSeries$humidity,
-                            year = ClimateSeries$year,
-                            date = as.Date.character(paste0(as.character(ClimateSeries$year),"-01","-01"), format = "%Y-%m-%d"),
-                            R = ClimateSeries$precipitation)
+for (country_i in country_tags){
+  
+  ClimateSeries <- climate_data %>% filter(country == country_i)
+  ClimateSeries <- data.frame(T = ClimateSeries$temperature,
+                              H = ClimateSeries$humidity,
+                              year = ClimateSeries$year,
+                              date = as.Date.character(paste0(as.character(ClimateSeries$year),"-01","-01"), format = "%Y-%m-%d"),
+                              R = ClimateSeries$precipitation)
+  
+  climate_file_path <- paste0("data/climate_ready_",country_i,".csv")
+  write.csv(ClimateSeries, file = climate_file_path, row.names = F)
+  
+  setEmpiricalClimateSeries(climate_file_path)
+  setOutputFilePathAndTag(paste0('results/movi_wP_',country_i))
+  
+  plotClimate()
+  
+  setMosqLifeExpPrior(pmean=12, psd=2, pdist='gamma')  
+  setMosqIncPerPrior(pmean=7, psd=2, pdist='gamma')  
+  setMosqBitingPrior(pmean=0.25, psd=0.01, pdist='gamma')  
+  setHumanLifeExpPrior(pmean=71.1, psd=2, pdist='gamma')
+  setHumanIncPerPrior(pmean=5.8, psd=1, pdist='gamma')
+  setHumanInfPerPrior(pmean=5.9, psd=1, pdist='gamma')
+  setHumanMosqTransProbPrior(pmean=0.5, psd=0.01, pdist='gamma')
+  
+  estimateEcoCoefficients(nMCMC=100000, bMCMC=0.5, cRho=1, cEta=1, gauJump=0.75)
+  
+  simulateEmpiricalIndexP(nSample=1000, smoothing=c(7,15,30,60))
+  
+  exportEmpiricalIndexP()
+  plotEmpiricalIndexP(outfilename=paste0('debug_indexP',country_i))
+  
+  indexP_country <- as.data.frame(read_csv(paste0("results/movi_wP_",country_i,
+                                                  ".estimated_indexP.csv")))
+  indexP_country <- indexP_country$indexP
+  
+  urban_country <- urban_data %>% filter(country == country_i)
+  urban_country <- as.numeric(urban_country$urban_population)/100
+  
+  wash_country <- wash_data %>% filter(country == country_i)
+  wash_country <- as.numeric(wash_country$coverage)
+  
+  haq_country <- haq_data %>% filter(country == country_i) 
+  haq_country <- as.numeric(haq_country$hca)
+  
+  alt_country <- alt_data %>% filter(country == country_i)
+  alt_country <- rep(as.numeric(alt_country$p_below2000m), length(years))/100
+  
+  movi_country <- indexP_country*urban_country*wash_country*alt_country/haq_country
+  
+  movi_data <- movi_data %>% mutate(
+    !!country_i := movi_country
+  )
+  
+  print(country_i)
+  
+}
 
-write.csv(ClimateSeries, file = "data/climate_ready.csv", row.names = F)
-
-setEmpiricalClimateSeries('data/climate_ready.csv')
-setOutputFilePathAndTag('results/movi_wP')
-
-plotClimate()
-
-setMosqLifeExpPrior(pmean=12, psd=2, pdist='gamma')  
-setMosqIncPerPrior(pmean=7, psd=2, pdist='gamma')  
-setMosqBitingPrior(pmean=0.25, psd=0.01, pdist='gamma')  
-setHumanLifeExpPrior(pmean=71.1, psd=2, pdist='gamma')
-setHumanIncPerPrior(pmean=5.8, psd=1, pdist='gamma')
-setHumanInfPerPrior(pmean=5.9, psd=1, pdist='gamma')
-setHumanMosqTransProbPrior(pmean=0.5, psd=0.01, pdist='gamma')
-
-estimateEcoCoefficients(nMCMC=100000, bMCMC=0.5, cRho=1, cEta=1, gauJump=0.75)
-
-simulateEmpiricalIndexP(nSample=1000, smoothing=c(7,15,30,60))
-
-exportEmpiricalIndexP()
-plotEmpiricalIndexP(outfilename='debug_indexP')
-
-COL_indexP <- as.data.frame(read_csv("results/movi_wP.estimated_indexP.csv"))
-COL_indexP <- COL_indexP$indexP
-
-COL_wash <- wash_data %>% filter(iso3 == "COL") %>% select(coverage)
-
-COL_HAQ <- haq_data %>% filter(iso3 == "COL") %>% select(hca)
-
-movi_col <- 1000*COL_indexP*COL_wash/COL_HAQ
+write.csv(movi_data, file = 'results/movi_data.csv', row.names = F)

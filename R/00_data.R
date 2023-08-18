@@ -119,5 +119,22 @@ alt_data <- alt_orig_data %>% filter(country %in% country_tags) %>%
     p_below2000m = `%<500m` + `%500-999m` + `%1000-1499m` + `%1500-1999m`
   )
 
-rm(list=(ls()[!(ls() %in% c("climate_data","haq_data","wash_data","alt_data",
+
+## Urban data
+
+urban_orig_data <- read_delim("data/urban_population_data.csv", 
+                                    delim = ";", escape_double = FALSE, na = "NA")
+
+urban_orig_data <- urban_orig_data %>% filter(year %in% years & iso3 %in% names(country_tags))
+
+urban_data <- data.frame()
+
+for (tag in names(country_tags)){
+  orig_data <- urban_orig_data %>% filter(iso3 == tag)
+  reps <- as.data.frame(rep(last(orig_data),last(years)-max(orig_data$year)))
+  reps$year <- seq(max(orig_data$year)+1,last(years))
+  urban_data <- rbind(urban_data,orig_data,reps)
+}
+
+rm(list=(ls()[!(ls() %in% c("climate_data","haq_data","urban_data","wash_data","alt_data",
                             "country_tags", "years", "service_lvl_tags"))]))
