@@ -68,3 +68,4 @@ for (country_i in country_tags){
 }
 
 write.csv(movi_data, file = 'results/movi_data.csv', row.names = F)
+
