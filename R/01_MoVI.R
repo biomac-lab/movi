@@ -4,6 +4,7 @@ source(file = "R/MVSE_package.R")
 require("pbapply")
 require("scales")
 require("genlasso")
+require("readr")
 
 movi_data <- data.frame(matrix(ncol = length(country_tags),
                                nrow = length(years)))
