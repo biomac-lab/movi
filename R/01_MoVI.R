@@ -13,6 +13,7 @@ ggplot(data = urban_data, aes(x=year, y = urban_population, group = country, col
 ggplot(data = haq_data, aes(x=year, y = hca, group = country, colour=country)) + geom_line()
 ggplot(data = wash_data, aes(x=year, y = coverage, group = country, colour=country)) + geom_line()
 
+
 ## Index P estimation
 
 indexP_data <- data.frame(matrix(ncol = length(country_tags),
@@ -64,7 +65,7 @@ for (country_i in country_tags){
 }
 
 indexP_data_sca <- indexP_data/sapply(indexP_data, max, na.rm = TRUE)
-indexP_data_sca <- prueba %>% mutate_if(is.numeric, function(x) ifelse(is.infinite(x), 0, x))
+indexP_data_sca <- indexP_data_sca %>% mutate_if(is.numeric, function(x) ifelse(is.infinite(x), 0, x))
 
 movi_data <- data.frame(matrix(ncol = length(country_tags),
                                nrow = length(years)))
@@ -86,7 +87,7 @@ for (country_i in country_tags){
   alt_country <- alt_data %>% filter(country == country_i)
   alt_country <- rep(as.numeric(alt_country$p_below2000m), length(years))/100
   
-  movi_country <- indexP_country*(urban_country*wash_country*alt_country)/haq_country
+  movi_country <- 100*indexP_country*(urban_country*wash_country*alt_country)/haq_country
   
   movi_data <- movi_data %>% mutate(
     !!country_i := movi_country

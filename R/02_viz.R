@@ -4,7 +4,8 @@ viz_data <- data.frame(country = rep(country_tags, each=length(years)),
                        year = rep(years, length(country_tags)),
                        movi = unlist(movi_data))
 
-ggplot(data = viz_data, aes(x=year, y = movi, group = country, colour=country)) + geom_line() + facet_wrap(~country,scales = "free_y", ncol = 2)
+ggplot(data = viz_data, aes(x=year, y = movi, group = country, colour=country)) + geom_line(size = 1) 
+#+ facet_wrap(~country,scales = "free_y", ncol = 2)
 
 ggplot(viz_data, aes(fill=country, y=movi, x=year)) + 
   geom_bar(position="stack", stat="identity")
@@ -42,3 +43,4 @@ ggplot(viz_averages, aes(fill=country, y=change_5, x=year)) +
   geom_bar(position="stack", stat="identity") +
   geom_hline(yintercept = 0) +  facet_wrap(~country,scales = "free_y", ncol = 2)
 
+write.csv(viz_averages, file = 'results/movi_data_averages.csv', row.names = F)
