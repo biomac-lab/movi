@@ -6,11 +6,22 @@ require("scales")
 require("genlasso")
 require("readr")
 
-movi_data <- data.frame(matrix(ncol = length(country_tags),
+
+## Data exploration
+
+ggplot(data = urban_data, aes(x=year, y = urban_population, group = country, colour=country)) + geom_line()
+ggplot(data = haq_data, aes(x=year, y = hca, group = country, colour=country)) + geom_line()
+ggplot(data = wash_data, aes(x=year, y = coverage, group = country, colour=country)) + geom_line()
+
+## Index P estimation
+
+indexP_data <- data.frame(matrix(ncol = length(country_tags),
                                nrow = length(years)))
-colnames(movi_data) <- country_tags[]
+colnames(indexP_data) <- country_tags[]
 
 for (country_i in country_tags){
+  
+  print(country_i)
   
   ClimateSeries <- climate_data %>% filter(country == country_i)
   ClimateSeries <- data.frame(T = ClimateSeries$temperature,
@@ -46,6 +57,21 @@ for (country_i in country_tags){
                                                   ".estimated_indexP.csv")))
   indexP_country <- as.numeric(indexP_country$indexP)
   
+  indexP_data <- indexP_data %>% mutate(
+    !!country_i := indexP_country
+  )
+  
+}
+
+
+movi_data <- data.frame(matrix(ncol = length(country_tags),
+                               nrow = length(years)))
+colnames(movi_data) <- country_tags[]
+
+for (country_i in country_tags){
+  
+  indexP_country <- as.numeric(indexP_data[,country_i])
+  
   urban_country <- urban_data %>% filter(country == country_i)
   urban_country <- as.numeric(urban_country$urban_population)/100
   
@@ -53,20 +79,17 @@ for (country_i in country_tags){
   wash_country <- as.numeric(wash_country$coverage)
   
   haq_country <- haq_data %>% filter(country == country_i) 
-  haq_country <- as.numeric(haq_country$hca)
+  haq_country <- as.numeric(haq_country$hca)/100
   
   alt_country <- alt_data %>% filter(country == country_i)
   alt_country <- rep(as.numeric(alt_country$p_below2000m), length(years))/100
   
-  movi_country <- indexP_country*urban_country*wash_country*alt_country/haq_country
+  movi_country <- indexP_country + (0.8*urban_country*wash_country*alt_country - 0.2*haq_country)
   
   movi_data <- movi_data %>% mutate(
     !!country_i := movi_country
   )
   
-  print(country_i)
-  
 }
-
 write.csv(movi_data, file = 'results/movi_data.csv', row.names = F)
 
