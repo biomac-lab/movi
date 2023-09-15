@@ -63,6 +63,8 @@ for (country_i in country_tags){
   
 }
 
+indexP_data_sca <- indexP_data/sapply(indexP_data, max, na.rm = TRUE)
+indexP_data_sca <- prueba %>% mutate_if(is.numeric, function(x) ifelse(is.infinite(x), 0, x))
 
 movi_data <- data.frame(matrix(ncol = length(country_tags),
                                nrow = length(years)))
@@ -70,7 +72,7 @@ colnames(movi_data) <- country_tags[]
 
 for (country_i in country_tags){
   
-  indexP_country <- as.numeric(indexP_data[,country_i])
+  indexP_country <- as.numeric(indexP_data_sca[,country_i])
   
   urban_country <- urban_data %>% filter(country == country_i)
   urban_country <- as.numeric(urban_country$urban_population)/100
@@ -84,7 +86,7 @@ for (country_i in country_tags){
   alt_country <- alt_data %>% filter(country == country_i)
   alt_country <- rep(as.numeric(alt_country$p_below2000m), length(years))/100
   
-  movi_country <- indexP_country + (0.8*urban_country*wash_country*alt_country - 0.2*haq_country)
+  movi_country <- indexP_country*(urban_country*wash_country*alt_country)/haq_country
   
   movi_data <- movi_data %>% mutate(
     !!country_i := movi_country
