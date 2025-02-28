@@ -1,5 +1,6 @@
 library(readr)
 library(tidyverse)
+library(readxl)
 
 country_tags <- c("ARG" = "Argentina", "BOL" = "Bolivia", "BRA" = "Brazil", 
                   "CHL" = "Chile", "COL" = "Colombia", "CRI" = "Costa Rica",
@@ -8,57 +9,58 @@ country_tags <- c("ARG" = "Argentina", "BOL" = "Bolivia", "BRA" = "Brazil",
                   "PAN" = "Panama", "PRY" = "Paraguay", "PER" = "Peru",  
                   "URY" = "Uruguay", "VEN" = "Venezuela")
 
-years <- seq(2000,2022)
+years <- seq(2000,2023)
 
 
 ## Climate data
 
-t_data_path <- c("data/temperature_data/tas_timeseries_annual_era_1970-2020_")
-h_data_path <- c("data/humidity_data/hurs_timeseries_annual_era_1970-2020_")
-p_data_path <- c("data/precipitation_data/pr_timeseries_annual_era_1970-2020_")
-
 climate_data <- data.frame("year" = rep(years, length(country_tags)),
-                           "country" = rep(country_tags, each = length(years)), 
+                           "country" = rep(country_tags, each = length(years)),
                            "iso3" = rep(names(country_tags), each = length(years)),
                            "temperature" = rep(NA, length(country_tags)),
                            "humidity" = rep(NA, length(country_tags)),
                            "precipitation" = rep(NA, length(country_tags)))
 
 # Temperature data
+
+tas_1950_2023 <- read_excel(paste0(getwd(),"/data/temperature_data/era5_tas_1950-2023.xlsx"))
+colnames(tas_1950_2023) <- c("code", "name", as.character(seq(1950,2023)))
+
 t_data <- c()
 for (tag in names(country_tags)){
-  file <- paste0(t_data_path,tag,".csv")
-  orig_data <- as.data.frame(read_csv(file, na = "NA", skip = 1))
-  orig_data <- orig_data %>% mutate(year = orig_data[[1]])
-  orig_data <- orig_data %>% filter( year %in% years) %>% select(2,"year")
-  reps <- rep(last(orig_data[[1]]),last(years)-last(orig_data[[2]]))
-  imported_data <- c(orig_data[[1]],reps)
-  t_data <- c(t_data,imported_data)
+  tas_country <- subset(tas_1950_2023, code == tag)
+  orig_data <- as.vector(select(tas_country, as.character(years)))
+  reps <- rep(last(orig_data),last(years)-as.numeric(last(names(orig_data))))
+  complete_data <- c(orig_data,reps)
+  t_data <- c(t_data,complete_data)
 }
 
 # Humidity data
+hurs_1950_2023 <- read_excel(paste0(getwd(),"/data/humidity_data/era5_hurs_1950-2023.xlsx"))
+colnames(hurs_1950_2023) <- c("code", "name", as.character(seq(1950,2023)))
+
 h_data <- c()
 for (tag in names(country_tags)){
-  file <- paste0(h_data_path,tag,".csv")
-  orig_data <- as.data.frame(read_csv(file, na = "NA", skip = 1))
-  orig_data <- orig_data %>% mutate(year = orig_data[[1]])
-  orig_data <- orig_data %>% filter( year %in% years) %>% select(2,"year")
-  reps <- rep(last(orig_data[[1]]),last(years)-last(orig_data[[2]]))
-  imported_data <- c(orig_data[[1]],reps)
-  h_data <- c(h_data,imported_data)
+  h_country <- subset(hurs_1950_2023, code == tag)
+  orig_data <- as.vector(select(h_country, as.character(years)))
+  reps <- rep(last(orig_data),last(years)-as.numeric(last(names(orig_data))))
+  complete_data <- c(orig_data,reps)
+  h_data <- c(h_data,complete_data)
 }
 
 # Precipitation data
+pr_1950_2023 <- read_excel(paste0(getwd(),"/data/precipitation_data/era5_pr_1950-2023.xlsx"))
+colnames(pr_1950_2023) <- c("code", "name", as.character(seq(1950,2023)))
+
 p_data <- c()
 for (tag in names(country_tags)){
-  file <- paste0(p_data_path,tag,".csv")
-  orig_data <- as.data.frame(read_csv(file, na = "NA", skip = 1))
-  orig_data <- orig_data %>% mutate(year = orig_data[[1]])
-  orig_data <- orig_data %>% filter( year %in% years) %>% select(2,"year")
-  reps <- rep(last(orig_data[[1]]),last(years)-last(orig_data[[2]]))
-  imported_data <- c(orig_data[[1]],reps)
-  p_data <- c(p_data,imported_data)
+  p_country <- subset(pr_1950_2023, code == tag)
+  orig_data <- as.vector(select(p_country, as.character(years)))
+  reps <- rep(last(orig_data),last(years)-as.numeric(last(names(orig_data))))
+  complete_data <- c(orig_data,reps)
+  p_data <- c(p_data,complete_data)
 }
+
 
 climate_data$temperature <- t_data
 climate_data$humidity <- h_data
@@ -73,8 +75,8 @@ haq_orig_data <- haq_orig_data %>% filter(year %in% years & iso3 %in% names(coun
 haq_data <- data.frame()
 
 for (tag in names(country_tags)){
-  orig_data <- haq_orig_data %>% filter(iso3 == tag)
-  reps <- as.data.frame(rep(last(orig_data),last(years)-max(orig_data$year)))
+  orig_data <- as.data.frame(haq_orig_data %>% filter(iso3 == tag))
+  reps <- do.call(rbind, c(replicate(last(years)-max(orig_data$year), orig_data[nrow(orig_data),], simplify = FALSE)))
   reps$year <- seq(max(orig_data$year)+1,last(years))
   haq_data <- rbind(haq_data,orig_data,reps)
 }
@@ -94,6 +96,12 @@ for (c in names(country_tags)){
     country_cov <- wash_orig_data %>% filter(iso3 == c, wash_orig_data$year== y,  
                                              wash_orig_data$service_level %in% names(service_lvl_tags[1:3])) %>%
                                               select(coverage)
+    while(nrow(country_cov)==0){
+      y <- y-1
+      country_cov <- wash_orig_data %>% filter(iso3 == c, wash_orig_data$year== y,  
+                                               wash_orig_data$service_level %in% names(service_lvl_tags[1:3])) %>%
+        select(coverage)
+    }
     coverages <- c(coverages, sum(country_cov))
   }
 }
@@ -126,11 +134,8 @@ urban_orig_data <- urban_orig_data %>% filter(year %in% years & iso3 %in% names(
 urban_data <- data.frame()
 
 for (tag in names(country_tags)){
-  orig_data <- urban_orig_data %>% filter(iso3 == tag)
-  reps <- as.data.frame(rep(last(orig_data),last(years)-max(orig_data$year)))
+  orig_data <- as.data.frame(urban_orig_data %>% filter(iso3 == tag))
+  reps <- do.call(rbind, c(replicate(last(years)-max(orig_data$year), orig_data[nrow(orig_data),], simplify = FALSE)))
   reps$year <- seq(max(orig_data$year)+1,last(years))
   urban_data <- rbind(urban_data,orig_data,reps)
 }
-
-rm(list=(ls()[!(ls() %in% c("climate_data","haq_data","urban_data","wash_data","alt_data",
-                          "country_tags", "years", "service_lvl_tags"))]))
