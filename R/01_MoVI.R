@@ -18,18 +18,18 @@ ggplot(data = wash_data, aes(x=year, y = coverage, group = country, colour=count
 
 indexP_data <- data.frame(matrix(ncol = length(country_tags),
                                nrow = length(years)))
-colnames(indexP_data) <- country_tags[]
+colnames(indexP_data) <- names(country_tags)
 
-for (country_i in country_tags){
+for (country_i in names(country_tags)){
   
   print(country_i)
   
-  ClimateSeries <- climate_data %>% filter(country == country_i)
-  ClimateSeries <- data.frame(T = ClimateSeries$temperature,
-                              H = ClimateSeries$humidity,
-                              year = ClimateSeries$year,
+  ClimateSeries <- climate_data %>% filter(iso3 == country_i)
+  ClimateSeries <- data.frame(T = as.numeric(ClimateSeries$temperature),
+                              H = as.numeric(ClimateSeries$humidity),
+                              year = as.numeric(ClimateSeries$year),
                               date = as.Date.character(paste0(as.character(ClimateSeries$year),"-01","-01"), format = "%Y-%m-%d"),
-                              R = ClimateSeries$precipitation)
+                              R = as.numeric(ClimateSeries$precipitation))
   
   climate_file_path <- paste0("data/climate_ready_",country_i,".csv")
   write.csv(ClimateSeries, file = climate_file_path, row.names = F)
@@ -69,22 +69,22 @@ indexP_data_sca <- indexP_data_sca %>% mutate_if(is.numeric, function(x) ifelse(
 
 movi_data <- data.frame(matrix(ncol = length(country_tags),
                                nrow = length(years)))
-colnames(movi_data) <- country_tags[]
+colnames(movi_data) <- names(country_tags)
 
-for (country_i in country_tags){
+for (country_i in names(country_tags)){
   
   indexP_country <- as.numeric(indexP_data_sca[,country_i])
   
-  urban_country <- urban_data %>% filter(country == country_i)
+  urban_country <- urban_data %>% filter(iso3 == country_i)
   urban_country <- as.numeric(urban_country$urban_population)/100
   
-  wash_country <- wash_data %>% filter(country == country_i)
+  wash_country <- wash_data %>% filter(iso3 == country_i)
   wash_country <- as.numeric(wash_country$coverage)
   
-  haq_country <- haq_data %>% filter(country == country_i) 
+  haq_country <- haq_data %>% filter(iso3 == country_i) 
   haq_country <- as.numeric(haq_country$hca)/100
   
-  alt_country <- alt_data %>% filter(country == country_i)
+  alt_country <- alt_data %>% filter(country == country_tags[country_i])
   alt_country <- rep(as.numeric(alt_country$p_below2000m), length(years))/100
   
   movi_country <- 100*indexP_country*(urban_country*wash_country*alt_country)/haq_country
